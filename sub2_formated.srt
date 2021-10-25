@@ -1,0 +1,24 @@
+1
+00:00:41,458 --> 00:00:43,710
+<span style="color:green">1 DE JUNHO DE 1972</span>
+
+2
+00:00:44,253 --> 00:00:47,880
+<span style="color:green">O presidente está chegando ao
+helicóptero da Fuzilaria Naval...</span>
+
+3
+00:00:48,048 --> 00:00:51,759
+<span style="color:green">que aterrissa na praça leste
+da face leste do Capitólio.</span>
+
+4
+00:00:52,594 --> 00:00:55,304
+<span style="color:green">Balança um pouco,
+está quase no chão.</span>
+
+5
+00:00:56,682 --> 00:01:00,184
+<span style="color:green">Que pontualidade.
+O presidente cruzou o mundo...</span>
+

@@ -1,7 +1,7 @@
 '''
 A simple script to add some formatting (i.e. change the font color) of .srt subtitle files
 Why did I do it?
-Lots of free time and wanted to practice the use of RegEx
+Just wanted to practice the use of RegEx to parse the subtitle content into a dictionary
 
 It assumes that the files are 'utf-8' encoded
 
@@ -12,20 +12,23 @@ By: Matheus Mendes dos Santos | matbaska@hotmail.com | matheus.mendes.santos@alu
 import os
 import re
 import argparse
-
 from typing import Dict, List
 
-from numpy import positive
 
 def create_formated_subtitle(source_file: str, color: str, destination: str) -> None:
     
     with open(source_file, encoding='utf-8') as f:
-        raw = f.read()
+        old_sub = f.read()
 
-
-
+    dict_sub = sub_to_dict(raw=old_sub)
+    dict_sub['content'] = paint_content(dict_sub['content'], color=color)
+    new_sub = dict_to_string(dict_sub=dict_sub)
     
-def dict_to_raw(dict_sub: Dict[str, List[str]]) -> str:
+    with open(destination, mode='w', encoding='utf-8') as f:
+        f.write(new_sub)
+
+
+def dict_to_string(dict_sub: Dict[str, List[str]]) -> str:
     '''
     Takes the formated dict and turn it back to the string subtitle
     '''
@@ -34,18 +37,18 @@ def dict_to_raw(dict_sub: Dict[str, List[str]]) -> str:
     content = dict_sub['content']
     end = dict_sub['end_time']
 
-    raw = str()
+    new_sub = str()
     for i in range(len(pos)):
         
-        raw += '\n'.join([pos[i], start[i] + ' --> ' + end[i], content[i]])
-        raw += '\n\n'
-    print(raw)
+        new_sub += '\n'.join([pos[i], start[i] + ' --> ' + end[i], content[i]])
+        new_sub += '\n\n'
+    
+    return new_sub
 
 def sub_to_dict(raw: str) -> Dict[str, List[str]]:
-    
     '''
     Uses RegEx to separate the raw subtitle content into a dict with 4 keys:
-    ´position´ : the position (or index?) of a particular subtitle
+    ´position´ : the position (or index) of a particular subtitle
     ´start_time´ : when the sub will show up in the screen (HH:MM:SS,CCC)
     ´end_time´ : when the sub will disappear from the screen (HH:MM:SS,CCC)
     ´content´ : the content of that subtitle
@@ -89,7 +92,7 @@ if __name__ == '__main__':
     parser.add_argument(
         'source_file',
         type=str,
-        help='The location of the source'
+        help='The name of the source file'
     )
 
     parser.add_argument(
@@ -100,57 +103,11 @@ if __name__ == '__main__':
         choices=['red', 'green', 'blue', 'yellow']
     )
 
-    parser.add_argument(
-        '-d',
-        '--destination',
-        type=str,
-        help='Location of destination of file (default: source_file appended with ´_formated´)',
-        default=None
-    )
-
     args = parser.parse_args()
     
-    s_file = args.source_file
-    d_file = args.destination
+    source_file = args.source_file
     color = args.color
+    file_path, file_extension = os.path.splitext(source_file)
+    dest_file = f'{file_path}_formated{file_extension}'
     
-    # If the destination wasn't passed, then we assume we want
-    # to create a new file based on the old one
-    if d_file is None:
-        file_path, file_extension = os.path.splitext(s_file)
-        d_file = f'{file_path}_formated{file_extension}'
-    
-
-    #create_formated_subtitle(s_file, color, d_file)
-s = '''
-2045
-02:15:35,878 --> 02:15:38,046
-POR LEVANTAR FUNDOS lLEGAlS
-
-2046
-02:15:38,214 --> 02:15:42,050
-6 DE ABRlL DE 1974
-CHAPlN CONDENADO
-
-2047
-02:15:42,218 --> 02:15:47,055
-12 DE ABRlL DE 1974
-PORTER PEGA 30 DlAS
-
-2048
-02:15:47,223 --> 02:15:51,726
-17 DE MAlO DE 1974
-GEN. KLElNDlENST CONDENADO
-
-2049
-02:15:51,894 --> 02:15:54,729
-4 DE JUNHO DE 1 974
-COLSON CONDENADO
-
-2050
-02:15:54,897 --> 02:15:57,565
-
-
-ADMlTE OBSTRUÇÃO À JUSTlÇA'''
-
-dict_to_raw(sub_to_dict(s))
+    create_formated_subtitle(source_file, color, dest_file)
