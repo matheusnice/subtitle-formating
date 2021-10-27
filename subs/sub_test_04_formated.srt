@@ -1,0 +1,6565 @@
+1
+00:00:22,038 --> 00:00:27,017
+<font color="yellow">Há muito tempo atrás, em uma
+galáxia muito, muito distante...</font>
+
+2
+00:00:29,462 --> 00:00:34,417
+<font color="yellow">GUERRA NAS
+ESTRELAS</font>
+
+3
+00:00:40,022 --> 00:00:44,995
+<font color="yellow">Episódio IV
+UMA NOVA ESPERANÇA</font>
+
+4
+00:00:48,148 --> 00:00:51,025
+<font color="yellow">É um período de guerra civil.</font>
+
+5
+00:00:51,067 --> 00:00:54,737
+<font color="yellow">Partindo de uma base secreta,
+naves rebeldes atacam</font>
+
+6
+00:00:54,863 --> 00:00:57,076
+<font color="yellow">e conquistam sua primeira vitória</font>
+
+7
+00:00:57,176 --> 00:00:59,576
+<font color="yellow">contra o perverso
+Império Galáctico.</font>
+
+8
+00:00:59,742 --> 00:01:03,079
+<font color="yellow">Durante a batalha, espiões
+rebeldes conseguem roubar</font>
+
+9
+00:01:03,121 --> 00:01:05,790
+<font color="yellow">os planos secretos da
+arma decisiva do Império,</font>
+
+10
+00:01:05,832 --> 00:01:09,043
+<font color="yellow">a ESTRELA DA MORTE,
+uma estação espacial blindada</font>
+
+11
+00:01:09,085 --> 00:01:12,755
+<font color="yellow">com poder suficiente para
+destruir um planeta inteiro.</font>
+
+12
+00:01:14,966 --> 00:01:18,511
+<font color="yellow">Perseguida pelos sinistros
+agentes do Império</font>
+
+13
+00:01:18,553 --> 00:01:20,465
+<font color="yellow">a Princesa Leia,
+apressa-se em voltar</font>
+
+14
+00:01:20,565 --> 00:01:22,165
+<font color="yellow">para casa a bordo de
+sua nave estelar</font>
+
+15
+00:01:22,307 --> 00:01:26,269
+<font color="yellow">protegendo os planos roubados
+que podem salvar seu povo</font>
+
+16
+00:01:26,394 --> 00:01:30,397
+<font color="yellow">e restaurar a liberdade na galáxia...</font>
+
+17
+00:02:48,184 --> 00:02:50,145
+<font color="yellow">Você ouviu?</font>
+
+18
+00:02:50,270 --> 00:02:53,064
+<font color="yellow">Atingiram o reator principal.
+Seremos destruídos com certeza.</font>
+
+19
+00:02:53,589 --> 00:02:54,891
+<font color="yellow">Isso é uma loucura.</font>
+
+20
+00:03:05,342 --> 00:03:06,661
+<font color="yellow">Estamos perdidos.</font>
+
+21
+00:03:08,580 --> 00:03:10,832
+<font color="yellow">Desta vez, a Princesa
+não poderá escapar.</font>
+
+22
+00:03:14,210 --> 00:03:15,628
+<font color="yellow">O que foi isso?</font>
+
+23
+00:04:57,981 --> 00:05:00,442
+<font color="yellow">R2-D2, onde você está?</font>
+
+24
+00:05:17,000 --> 00:05:19,461
+<font color="yellow">Até que enfim.
+Onde esteve?</font>
+
+25
+00:05:19,544 --> 00:05:22,672
+<font color="yellow">Estão vindo para cá.
+O que vamos fazer?</font>
+
+26
+00:05:22,797 --> 00:05:24,359
+<font color="yellow">Nós seremos mandados
+para as minas de sal,</font>
+
+27
+00:05:24,459 --> 00:05:25,959
+<font color="yellow">esmagados ou coisa pior.</font>
+
+28
+00:05:27,427 --> 00:05:29,220
+<font color="yellow">Espere, para onde está indo?</font>
+
+29
+00:05:42,025 --> 00:05:45,028
+<font color="yellow">Os planos da Estrela da Morte
+não estão nos computadores.</font>
+
+30
+00:05:45,737 --> 00:05:47,781
+<font color="yellow">Onde estão as transmissões
+interceptadas?</font>
+
+31
+00:05:47,864 --> 00:05:50,700
+<font color="yellow">O que fez com os planos?</font>
+
+32
+00:05:50,825 --> 00:05:52,744
+<font color="yellow">Nós não interceptamos
+nenhuma transmissão.</font>
+
+33
+00:05:53,745 --> 00:05:57,749
+<font color="yellow">Esta é uma nave consular.
+Estamos em missão diplomática.</font>
+
+34
+00:05:57,832 --> 00:06:02,420
+<font color="yellow">Se é uma nave consular,
+onde está o Embaixador?</font>
+
+35
+00:06:05,882 --> 00:06:09,427
+<font color="yellow">Comandante, vasculhe esta nave
+até encontrar os planos.</font>
+
+36
+00:06:09,511 --> 00:06:12,430
+<font color="yellow">E traga-me os passageiros.
+Eu os quero vivos!</font>
+
+37
+00:06:24,943 --> 00:06:26,444
+<font color="yellow">Lá está uma.
+Use o paralisador.</font>
+
+38
+00:06:32,542 --> 00:06:33,868
+<font color="yellow">Ela ficará boa.</font>
+
+39
+00:06:33,952 --> 00:06:35,870
+<font color="yellow">Informe Lorde Vader
+sobre a prisioneira.</font>
+
+40
+00:06:37,455 --> 00:06:39,958
+<font color="yellow">Não pode entrar aí.
+É proibido.</font>
+
+41
+00:06:40,083 --> 00:06:42,001
+<font color="yellow">Com certeza será desativado.</font>
+
+42
+00:06:43,962 --> 00:06:46,589
+<font color="yellow">Não me chame de filósofo maluco,
+pote de graxa barrigudo.</font>
+
+43
+00:06:46,714 --> 00:06:48,341
+<font color="yellow">Saia antes que o vejam.</font>
+
+44
+00:06:50,718 --> 00:06:52,887
+<font color="yellow">Missão secreta?
+Mas que planos?</font>
+
+45
+00:06:53,012 --> 00:06:55,598
+<font color="yellow">Do que está falando?
+Eu não entrarei aí.</font>
+
+46
+00:06:58,977 --> 00:07:01,229
+<font color="yellow">Ainda vou me arrepender.</font>
+
+47
+00:07:08,161 --> 00:07:09,298
+<font color="yellow">Ali vai outro.</font>
+
+48
+00:07:09,398 --> 00:07:11,598
+<font color="yellow">Cessar-fogo.
+Não há sinal de vida.</font>
+
+49
+00:07:11,781 --> 00:07:13,116
+<font color="yellow">Deve ter sido um curto-circuito.</font>
+
+50
+00:07:13,241 --> 00:07:16,494
+<font color="yellow">Engraçado. Daqui, os estragos
+não parecem tão graves.</font>
+
+51
+00:07:18,872 --> 00:07:20,832
+<font color="yellow">Tem certeza de que isto é seguro?</font>
+
+52
+00:07:39,809 --> 00:07:42,312
+<font color="yellow">Darth Vader. Só você
+poderia sertão atrevido.</font>
+
+53
+00:07:42,437 --> 00:07:44,773
+<font color="yellow">O Senado Imperial saberá reagir.</font>
+
+54
+00:07:44,856 --> 00:07:48,193
+<font color="yellow">- Atacou uma nave diplomática...
+- Não se faça de idiota, Sua Alteza.</font>
+
+55
+00:07:48,318 --> 00:07:50,195
+<font color="yellow">Não está em missão
+humanitária desta vez.</font>
+
+56
+00:07:50,320 --> 00:07:54,407
+<font color="yellow">Espiões rebeldes transmitiram
+várias mensagens a esta nave.</font>
+
+57
+00:07:54,491 --> 00:07:57,368
+<font color="yellow">Quero saber o que fez com
+os planos que lhe mandaram.</font>
+
+58
+00:07:57,494 --> 00:07:59,454
+<font color="yellow">Não sei do que está falando.</font>
+
+59
+00:07:59,579 --> 00:08:01,082
+<font color="yellow">Pertenço ao Senado Imperial</font>
+
+60
+00:08:01,182 --> 00:08:02,882
+<font color="yellow">e estou em missão
+diplomática para Alderaan.</font>
+
+61
+00:08:02,982 --> 00:08:05,943
+<font color="yellow">Você faz parte da Aliança Rebelde
+e é uma traidora.</font>
+
+62
+00:08:06,043 --> 00:08:07,545
+<font color="yellow">Podem levá-la!</font>
+
+63
+00:08:11,966 --> 00:08:14,385
+<font color="yellow">Prendê-la é perigoso.
+Se a notícia se espalhar</font>
+
+64
+00:08:14,511 --> 00:08:17,055
+<font color="yellow">pode gerar simpatia
+pela rebelião no Senado.</font>
+
+65
+00:08:17,138 --> 00:08:19,516
+<font color="yellow">Segui os espiões
+até chegar a ela.</font>
+
+66
+00:08:19,641 --> 00:08:22,310
+<font color="yellow">E só ela pode nos levar
+à base secreta deles.</font>
+
+67
+00:08:22,393 --> 00:08:24,312
+<font color="yellow">Irá preferir morrer
+a dizer onde fica.</font>
+
+68
+00:08:24,395 --> 00:08:25,980
+<font color="yellow">Eu cuido disso.</font>
+
+69
+00:08:26,080 --> 00:08:27,315
+<font color="yellow">Envie um sinal de perigo.</font>
+
+70
+00:08:27,415 --> 00:08:29,609
+<font color="yellow">Depois, informe ao Senado que
+todos a bordo morreram.</font>
+
+71
+00:08:29,734 --> 00:08:32,862
+<font color="yellow">Lorde Vader, os planos
+não estão a bordo desta nave.</font>
+
+72
+00:08:32,987 --> 00:08:34,405
+<font color="yellow">E nenhuma transmissão foi feita.</font>
+
+73
+00:08:34,531 --> 00:08:37,001
+<font color="yellow">Um módulo de fuga
+foi acionado,</font>
+
+74
+00:08:37,101 --> 00:08:38,701
+<font color="yellow">mas nenhum sinal
+de vida a bordo.</font>
+
+75
+00:08:38,827 --> 00:08:41,788
+<font color="yellow">Ela deve ter escondido
+os planos naquele módulo.</font>
+
+76
+00:08:41,871 --> 00:08:43,758
+<font color="yellow">Mande um destacamento
+recuperá-lo.</font>
+
+77
+00:08:43,858 --> 00:08:45,458
+<font color="yellow">Cuide disso pessoalmente,
+comandante.</font>
+
+78
+00:08:45,542 --> 00:08:47,627
+<font color="yellow">Ninguém poderá
+nos impedir desta vez.</font>
+
+79
+00:08:47,710 --> 00:08:49,254
+<font color="yellow">Sim, senhor.</font>
+
+80
+00:09:03,852 --> 00:09:05,854
+<font color="yellow">Como nos metemos
+nesta enrascada?</font>
+
+81
+00:09:05,979 --> 00:09:08,356
+<font color="yellow">Sinceramente, eu não sei.</font>
+
+82
+00:09:09,065 --> 00:09:12,318
+<font color="yellow">Parece que fomos construídos
+para sofrer. É o nosso destino.</font>
+
+83
+00:09:14,904 --> 00:09:16,791
+<font color="yellow">Se não descansar,
+vou me desconjuntar.</font>
+
+84
+00:09:16,891 --> 00:09:18,691
+<font color="yellow">Minhas dobradiças
+estão emperrando.</font>
+
+85
+00:09:25,582 --> 00:09:27,584
+<font color="yellow">Mas que lugar desolado.</font>
+
+86
+00:09:31,880 --> 00:09:33,882
+<font color="yellow">Aonde pensa que vai?</font>
+
+87
+00:09:33,965 --> 00:09:37,552
+<font color="yellow">Eu não irei para esse lado.
+Há pedras demais.</font>
+
+88
+00:09:38,261 --> 00:09:40,180
+<font color="yellow">Por aqui, é muito mais fácil.</font>
+
+89
+00:09:40,263 --> 00:09:42,682
+<font color="yellow">Por que acha que existe
+um povoado ali?</font>
+
+90
+00:09:44,434 --> 00:09:46,144
+<font color="yellow">Não me venha
+com palavras técnicas.</font>
+
+91
+00:09:47,479 --> 00:09:49,522
+<font color="yellow">Que missão?
+Do que está falando?</font>
+
+92
+00:09:51,441 --> 00:09:53,902
+<font color="yellow">Já estou farto de você.</font>
+
+93
+00:09:54,652 --> 00:09:55,987
+<font color="yellow">Vá por ali.</font>
+
+94
+00:09:56,070 --> 00:09:58,990
+<font color="yellow">Verá como enguiça num instante,
+sua pilha de sucata.</font>
+
+95
+00:09:59,741 --> 00:10:02,327
+<font color="yellow">E nem pense em me chamar
+implorando ajuda</font>
+
+96
+00:10:02,410 --> 00:10:04,078
+<font color="yellow">porque não ajudarei.</font>
+
+97
+00:10:17,717 --> 00:10:19,427
+<font color="yellow">Chega de aventuras.</font>
+
+98
+00:10:19,511 --> 00:10:21,471
+<font color="yellow">Eu não irei por aí.</font>
+
+99
+00:10:55,463 --> 00:10:58,383
+<font color="yellow">Aquela "maquininha emperrada".
+É tudo culpa dele.</font>
+
+100
+00:10:59,425 --> 00:11:01,636
+<font color="yellow">Ele me enganou
+para eu vir por aqui.</font>
+
+101
+00:11:01,719 --> 00:11:03,638
+<font color="yellow">Mas não fará melhor.</font>
+
+102
+00:11:06,891 --> 00:11:09,018
+<font color="yellow">Espere, o que é aquilo?</font>
+
+103
+00:11:09,144 --> 00:11:11,855
+<font color="yellow">Um transporte. Estou salvo.</font>
+
+104
+00:11:11,980 --> 00:11:13,690
+<font color="yellow">Estou aqui!</font>
+
+105
+00:11:16,484 --> 00:11:19,904
+<font color="yellow">Socorro!
+Por favor, socorro!</font>
+
+106
+00:14:50,948 --> 00:14:52,307
+<font color="yellow">R2?</font>
+
+107
+00:14:55,703 --> 00:14:59,207
+<font color="yellow">R2-D2, é você. É você.</font>
+
+108
+00:15:32,824 --> 00:15:36,035
+<font color="yellow">Havia alguém no módulo.
+As pistas vão nesta direção.</font>
+
+109
+00:15:37,078 --> 00:15:38,955
+<font color="yellow">Veja senhor, androides.</font>
+
+110
+00:15:53,428 --> 00:15:54,929
+<font color="yellow">Nós paramos.</font>
+
+111
+00:15:55,054 --> 00:15:56,806
+<font color="yellow">Acorde!</font>
+
+112
+00:16:03,772 --> 00:16:05,398
+<font color="yellow">Estamos perdidos.</font>
+
+113
+00:16:13,615 --> 00:16:15,742
+<font color="yellow">Acha que vão nos derreter?</font>
+
+114
+00:16:28,463 --> 00:16:30,590
+<font color="yellow">Não atire.</font>
+
+115
+00:16:30,673 --> 00:16:32,926
+<font color="yellow">Isto não acaba nunca.</font>
+
+116
+00:17:12,507 --> 00:17:15,093
+<font color="yellow">- Está ótimo, vamos.
+- Luke!</font>
+
+117
+00:17:15,176 --> 00:17:16,678
+<font color="yellow">Luke!</font>
+
+118
+00:17:20,098 --> 00:17:22,645
+<font color="yellow">Luke, peça ao seu
+tio para comprar</font>
+
+119
+00:17:22,745 --> 00:17:25,245
+<font color="yellow">um tradutor que fale "Bocce".</font>
+
+120
+00:17:25,270 --> 00:17:27,772
+<font color="yellow">Não acredito que tenhamos
+escolha, mas eu digo a ele.</font>
+
+121
+00:17:38,908 --> 00:17:41,119
+<font color="yellow">Nós vamos levar esse vermelho.</font>
+
+122
+00:17:41,202 --> 00:17:43,163
+<font color="yellow">Não, esse não.</font>
+
+123
+00:17:44,831 --> 00:17:47,917
+<font color="yellow">Deve estar programado
+para etiqueta e protocolo.</font>
+
+124
+00:17:48,042 --> 00:17:49,402
+<font color="yellow">Protocolo?</font>
+
+125
+00:17:49,502 --> 00:17:52,005
+<font color="yellow">É minha função primária, senhor.
+Sou versado em várias áreas.</font>
+
+126
+00:17:52,088 --> 00:17:54,125
+<font color="yellow">Não preciso de um
+androide protocolar.</font>
+
+127
+00:17:54,225 --> 00:17:55,525
+<font color="yellow">Claro, senhor.</font>
+
+128
+00:17:55,550 --> 00:17:56,961
+<font color="yellow">Principalmente em um
+ambiente como este.</font>
+
+129
+00:17:57,061 --> 00:17:58,361
+<font color="yellow">Por isso, fui programado...</font>
+
+130
+00:17:58,386 --> 00:18:00,138
+<font color="yellow">Preciso de um androide
+que entenda</font>
+
+131
+00:18:00,221 --> 00:18:02,539
+<font color="yellow">a linguagem binária
+dos vaporizadores de umidade.</font>
+
+132
+00:18:02,690 --> 00:18:05,769
+<font color="yellow">Vaporizadores? Já programei
+carregadores de carga binários</font>
+
+133
+00:18:05,894 --> 00:18:08,021
+<font color="yellow">muito parecidos
+com os seus vaporizadores.</font>
+
+134
+00:18:08,104 --> 00:18:10,064
+<font color="yellow">- Você fala "Bocce"?
+- Claro, senhor.</font>
+
+135
+00:18:10,190 --> 00:18:11,649
+<font color="yellow">É como minha segunda língua.</font>
+
+136
+00:18:11,733 --> 00:18:14,444
+<font color="yellow">- Está bem, chega. Eu levo este.
+- Sim, senhor.</font>
+
+137
+00:18:17,405 --> 00:18:20,116
+<font color="yellow">Leve estes dois para a garagem.
+Quero-os limpos antes do jantar.</font>
+
+138
+00:18:20,241 --> 00:18:23,161
+<font color="yellow">Mas eu ia à Estação Tosche
+buscar os conversores de potência.</font>
+
+139
+00:18:23,244 --> 00:18:25,872
+<font color="yellow">Pode desperdiçar seu tempo
+depois de fazer as obrigações.</font>
+
+140
+00:18:25,914 --> 00:18:27,874
+<font color="yellow">Agora, vamos. Ande.</font>
+
+141
+00:18:29,417 --> 00:18:30,627
+<font color="yellow">Está bem. Vamos.</font>
+
+142
+00:18:33,338 --> 00:18:35,507
+<font color="yellow">E o vermelho também.
+Vamos logo.</font>
+
+143
+00:18:36,549 --> 00:18:39,052
+<font color="yellow">Vamos, vermelho.
+Ande logo.</font>
+
+144
+00:18:57,946 --> 00:19:00,073
+<font color="yellow">- Tio Owen.
+- O que é?</font>
+
+145
+00:19:00,156 --> 00:19:02,909
+<font color="yellow">Esse R2 tem um péssimo
+motivador. Olhe.</font>
+
+146
+00:19:02,992 --> 00:19:05,411
+<font color="yellow">O que está querendo
+nos empurrar?</font>
+
+147
+00:19:08,456 --> 00:19:10,978
+<font color="yellow">Desculpe, mas aquele
+R2 está em</font>
+
+148
+00:19:11,078 --> 00:19:13,278
+<font color="yellow">excelentes condições.
+E é uma pechincha.</font>
+
+149
+00:19:13,461 --> 00:19:15,380
+<font color="yellow">- Tio Owen?
+- Sim.</font>
+
+150
+00:19:15,463 --> 00:19:18,091
+<font color="yellow">- Por que não pega o azul?
+- Vamos levar o azul.</font>
+
+151
+00:19:19,342 --> 00:19:22,220
+<font color="yellow">Estou certo de que ficará
+muito satisfeito com ele.</font>
+
+152
+00:19:22,303 --> 00:19:24,222
+<font color="yellow">Ele realmente está
+em ótimas condições.</font>
+
+153
+00:19:24,305 --> 00:19:26,307
+<font color="yellow">Já trabalhei com ele.
+Aí vem ele.</font>
+
+154
+00:19:30,520 --> 00:19:32,021
+<font color="yellow">Está bem, vamos embora.</font>
+
+155
+00:19:32,147 --> 00:19:33,773
+<font color="yellow">Não se esqueça disto.</font>
+
+156
+00:19:33,857 --> 00:19:37,318
+<font color="yellow">Nem eu sei por que arrisco
+meu pescoço por você.</font>
+
+157
+00:19:43,283 --> 00:19:44,994
+<font color="yellow">Agradeço ao nosso criador.</font>
+
+158
+00:19:45,094 --> 00:19:47,394
+<font color="yellow">Este banho de óleo
+será maravilhoso.</font>
+
+159
+00:19:48,037 --> 00:19:51,624
+<font color="yellow">Estou tão cheio de poeira
+que mal posso me mover.</font>
+
+160
+00:19:51,708 --> 00:19:53,668
+<font color="yellow">Isso não é justo.</font>
+
+161
+00:19:53,793 --> 00:19:56,171
+<font color="yellow">O Biggs tem razão.
+Não conseguirei sair daqui.</font>
+
+162
+00:19:56,838 --> 00:19:58,798
+<font color="yellow">Posso ajudar em alguma coisa?</font>
+
+163
+00:19:58,882 --> 00:20:00,551
+<font color="yellow">Não.
+A não ser que possa</font>
+
+164
+00:20:00,651 --> 00:20:02,451
+<font color="yellow">alterar o tempo,
+acelerar a colheita</font>
+
+165
+00:20:02,551 --> 00:20:03,845
+<font color="yellow">ou me teleportar
+desta rocha.</font>
+
+166
+00:20:03,928 --> 00:20:05,472
+<font color="yellow">Acredito que não, senhor.</font>
+
+167
+00:20:05,597 --> 00:20:09,184
+<font color="yellow">Sou apenas um androide sem muito
+conhecimento sobre essas coisas.</font>
+
+168
+00:20:09,309 --> 00:20:10,643
+<font color="yellow">Não neste planeta.</font>
+
+169
+00:20:10,727 --> 00:20:14,147
+<font color="yellow">De fato, nem mesmo sei
+em que planeta estou.</font>
+
+170
+00:20:14,730 --> 00:20:16,766
+<font color="yellow">Se existe um centro
+luminoso no universo,</font>
+
+171
+00:20:16,891 --> 00:20:18,651
+<font color="yellow">está no planeta
+mais distante.</font>
+
+172
+00:20:18,777 --> 00:20:20,695
+<font color="yellow">Entendi, senhor.</font>
+
+173
+00:20:21,362 --> 00:20:23,782
+<font color="yellow">- Pode me chamar de Luke.
+- Entendi, Sr. Luke.</font>
+
+174
+00:20:25,200 --> 00:20:26,659
+<font color="yellow">Não, apenas Luke.</font>
+
+175
+00:20:27,368 --> 00:20:30,538
+<font color="yellow">E eu sou C-3PO.
+Dedicado a relações humanas.</font>
+
+176
+00:20:30,622 --> 00:20:33,249
+<font color="yellow">E o meu companheiro é o R2-D2.</font>
+
+177
+00:20:33,374 --> 00:20:34,834
+<font color="yellow">Oi.</font>
+
+178
+00:20:36,085 --> 00:20:37,947
+<font color="yellow">Ele está com várias
+marcas de carbono.</font>
+
+179
+00:20:38,047 --> 00:20:39,547
+<font color="yellow">Parece que tiveram
+um bocado de ação.</font>
+
+180
+00:20:39,631 --> 00:20:43,134
+<font color="yellow">Com tudo que passamos, fico
+feliz que estejamos funcionando.</font>
+
+181
+00:20:43,434 --> 00:20:44,886
+<font color="yellow">Ainda mais com
+aquela rebelião.</font>
+
+182
+00:20:45,011 --> 00:20:46,930
+<font color="yellow">Sabem da rebelião
+contra o Império?</font>
+
+183
+00:20:47,055 --> 00:20:50,433
+<font color="yellow">Foi por causa dela que
+viemos parar aqui, senhor.</font>
+
+184
+00:20:50,558 --> 00:20:52,894
+<font color="yellow">- Estiveram em muitas batalhas?
+- Em várias, eu acho.</font>
+
+185
+00:20:52,977 --> 00:20:54,896
+<font color="yellow">Na verdade, não há
+muito que contar.</font>
+
+186
+00:20:54,979 --> 00:20:58,525
+<font color="yellow">Não passo de um intérprete
+e não sei contar histórias.</font>
+
+187
+00:20:58,650 --> 00:21:01,152
+<font color="yellow">Muito menos torná-las
+interessantes.</font>
+
+188
+00:21:01,903 --> 00:21:03,780
+<font color="yellow">É, meu amiguinho</font>
+
+189
+00:21:03,905 --> 00:21:06,241
+<font color="yellow">há alguma coisa
+bem enroscada aqui.</font>
+
+190
+00:21:06,324 --> 00:21:08,284
+<font color="yellow">Esteve em uma nave estelar
+ou o quê?</font>
+
+191
+00:21:08,409 --> 00:21:11,454
+<font color="yellow"><i>Ajude-me, Obi-Wan Kenobi.</i>
+<i>É minha única esperança.</i></font>
+
+192
+00:21:11,579 --> 00:21:13,206
+<font color="yellow">O que é isto?</font>
+
+193
+00:21:13,289 --> 00:21:14,876
+<font color="yellow">"O que é o quê",</font>
+
+194
+00:21:14,976 --> 00:21:16,476
+<font color="yellow">ele fez uma pergunta.
+O que é isso?</font>
+
+195
+00:21:16,501 --> 00:21:20,421
+<font color="yellow"><i>Ajude-me, Obi-Wan Kenobi.</i>
+<i>É minha única esperança.</i></font>
+
+196
+00:21:23,883 --> 00:21:27,762
+<font color="yellow"><i>Ajude-me, Obi-Wan Kenobi.</i>
+<i>É minha única esperança.</i></font>
+
+197
+00:21:29,931 --> 00:21:32,767
+<font color="yellow">Ele diz que não é nada, senhor.
+É um pequeno defeito.</font>
+
+198
+00:21:32,892 --> 00:21:34,686
+<font color="yellow">Dados antigos.
+Não ligue para isso.</font>
+
+199
+00:21:34,769 --> 00:21:36,896
+<font color="yellow">Quem é ela?
+Ela é linda.</font>
+
+200
+00:21:36,980 --> 00:21:40,316
+<font color="yellow">- Receio não saber, senhor.
+- <i>Ajude-me, Obi-Wan Kenobi.</i></font>
+
+201
+00:21:40,442 --> 00:21:42,910
+<font color="yellow">Acho que era uma passageira
+em nossa última viagem.</font>
+
+202
+00:21:43,010 --> 00:21:44,654
+<font color="yellow">Acredito que era uma pessoa
+de muita importância.</font>
+
+203
+00:21:44,779 --> 00:21:47,657
+<font color="yellow">- Nosso comandante...
+- Há algo mais na gravação?</font>
+
+204
+00:21:49,200 --> 00:21:52,495
+<font color="yellow">Comporte-se, R2.
+Irá nos meter em encrencas.</font>
+
+205
+00:21:53,020 --> 00:21:55,415
+<font color="yellow">Está bem. Pode confiar nele,
+é o nosso novo mestre.</font>
+
+206
+00:21:55,515 --> 00:21:57,115
+<font color="yellow"><i>É minha única esperança.</i></font>
+
+207
+00:21:58,668 --> 00:22:01,831
+<font color="yellow">Disse que pertence a
+Obi-Wan Kenobi,</font>
+
+208
+00:22:01,931 --> 00:22:03,231
+<font color="yellow">um morador dessa área.</font>
+
+209
+00:22:03,256 --> 00:22:05,008
+<font color="yellow">E que é uma mensagem
+pessoal para ele.</font>
+
+210
+00:22:05,133 --> 00:22:07,135
+<font color="yellow">Francamente, não sei
+do ele está falando.</font>
+
+211
+00:22:07,235 --> 00:22:09,262
+<font color="yellow">Nosso último mestre
+foi o Capitão Antillies</font>
+
+212
+00:22:09,345 --> 00:22:10,972
+<font color="yellow">mas depois de tudo
+que passamos</font>
+
+213
+00:22:11,097 --> 00:22:13,975
+<font color="yellow">este pobre R2 está ficando
+um pouco excêntrico.</font>
+
+214
+00:22:14,500 --> 00:22:17,270
+<font color="yellow">Obi-Wan Kenobi. Será que
+se refere ao velho Ben Kenobi?</font>
+
+215
+00:22:17,353 --> 00:22:19,981
+<font color="yellow">Perdão, senhor, mas sabe
+do que ele está falando?</font>
+
+216
+00:22:20,106 --> 00:22:22,525
+<font color="yellow">Bem, não conheço ninguém
+chamado Obi-Wan</font>
+
+217
+00:22:23,359 --> 00:22:25,487
+<font color="yellow">mas o velho Ben mora
+depois do Mar das Dunas.</font>
+
+218
+00:22:25,612 --> 00:22:27,363
+<font color="yellow">É um excêntrico
+velho eremita.</font>
+
+219
+00:22:28,615 --> 00:22:30,492
+<font color="yellow">Quem será ela?</font>
+
+220
+00:22:31,017 --> 00:22:32,320
+<font color="yellow">Parece estar em perigo.</font>
+
+221
+00:22:32,420 --> 00:22:34,220
+<font color="yellow">É melhor ouvir a
+gravação inteira.</font>
+
+222
+00:22:37,248 --> 00:22:39,143
+<font color="yellow">Está dizendo que o
+pino de contenção</font>
+
+223
+00:22:39,243 --> 00:22:40,643
+<font color="yellow">danificou o sistema
+de reprodução.</font>
+
+224
+00:22:41,168 --> 00:22:43,505
+<font color="yellow">Disse que se remover
+esse pino</font>
+
+225
+00:22:43,588 --> 00:22:46,341
+<font color="yellow">talvez possa passar
+a gravação.</font>
+
+226
+00:22:46,424 --> 00:22:48,510
+<font color="yellow">Está certo.</font>
+
+227
+00:22:48,635 --> 00:22:52,138
+<font color="yellow">Acho que é pequeno demais para
+fugir se eu tirar esse pino.</font>
+
+228
+00:22:52,222 --> 00:22:53,389
+<font color="yellow">Vamos ver.</font>
+
+229
+00:22:56,309 --> 00:22:57,894
+<font color="yellow">Espere aí.</font>
+
+230
+00:22:59,479 --> 00:23:01,265
+<font color="yellow">Para onde ela foi?
+Traga-a de volta!</font>
+
+231
+00:23:01,365 --> 00:23:03,165
+<font color="yellow">Reproduza a mensagem inteira!</font>
+
+232
+00:23:03,274 --> 00:23:04,901
+<font color="yellow">"Que mensagem"?</font>
+
+233
+00:23:05,026 --> 00:23:06,945
+<font color="yellow">A que estava reproduzindo!</font>
+
+234
+00:23:07,028 --> 00:23:09,030
+<font color="yellow">Que estava guardando
+em suas entranhas enferrujadas.</font>
+
+235
+00:23:09,156 --> 00:23:10,999
+<font color="yellow"><i>Luke! Luke!</i></font>
+
+236
+00:23:11,282 --> 00:23:13,660
+<font color="yellow">Já estou indo, tia Beru.</font>
+
+237
+00:23:13,701 --> 00:23:16,538
+<font color="yellow">Desculpe, senhor. Mas ele deve
+estar com um pequeno distúrbio.</font>
+
+238
+00:23:16,621 --> 00:23:20,041
+<font color="yellow">Tome. Veja o que pode fazer.
+Eu volto logo.</font>
+
+239
+00:23:22,710 --> 00:23:25,547
+<font color="yellow">Acho bom você reproduzir
+essa mensagem.</font>
+
+240
+00:23:26,714 --> 00:23:29,050
+<font color="yellow">Não. Eu não acredito
+que ele goste de você.</font>
+
+241
+00:23:29,175 --> 00:23:31,553
+<font color="yellow">Não. Eu também
+não gosto de você.</font>
+
+242
+00:23:40,311 --> 00:23:44,407
+<font color="yellow">- Aquele R2 deve ter sido roubado.
+- Por que diz isso?</font>
+
+243
+00:23:44,507 --> 00:23:47,152
+<font color="yellow">Porque apareceu uma gravação
+enquanto eu o limpava.</font>
+
+244
+00:23:47,235 --> 00:23:49,737
+<font color="yellow">E ele diz que pertence a alguém
+chamado Obi-Wan Kenobi.</font>
+
+245
+00:23:52,573 --> 00:23:56,018
+<font color="yellow">Achei que falava do velho Ben.
+Sabe quem poderia ser?</font>
+
+246
+00:23:58,545 --> 00:23:59,914
+<font color="yellow">Deve ser um parente do Ben.</font>
+
+247
+00:24:00,039 --> 00:24:02,091
+<font color="yellow">Aquele feiticeiro
+é só um velho maluco.</font>
+
+248
+00:24:03,376 --> 00:24:06,921
+<font color="yellow">Amanhã, leve o R2 a Anchorhead
+e apague sua memória.</font>
+
+249
+00:24:07,046 --> 00:24:08,965
+<font color="yellow">Assim isso acabará.
+Ele é nosso agora.</font>
+
+250
+00:24:11,217 --> 00:24:13,344
+<font color="yellow">Mas e se esse tal de Obi-Wan
+vier procurar por ele?</font>
+
+251
+00:24:14,128 --> 00:24:15,454
+<font color="yellow">Não virá.</font>
+
+252
+00:24:15,930 --> 00:24:17,759
+<font color="yellow">Não acredito que
+ele ainda exista.</font>
+
+253
+00:24:18,259 --> 00:24:19,759
+<font color="yellow">Morreu na mesma época
+que o seu pai.</font>
+
+254
+00:24:19,859 --> 00:24:23,229
+<font color="yellow">- Conhecia o meu pai?
+- Eu disse para esquecer isso.</font>
+
+255
+00:24:23,897 --> 00:24:26,858
+<font color="yellow">Sua única preocupação deve
+ser aprontar esses androides.</font>
+
+256
+00:24:27,567 --> 00:24:30,904
+<font color="yellow">Eu os quero cedo no morro sul
+trabalhando nos condensadores.</font>
+
+257
+00:24:31,613 --> 00:24:33,072
+<font color="yellow">Sim, senhor.</font>
+
+258
+00:24:34,240 --> 00:24:36,951
+<font color="yellow">Esses novos androides
+vão dar conta do recado.</font>
+
+259
+00:24:37,035 --> 00:24:40,413
+<font color="yellow">Na verdade,
+pensava no nosso acordo</font>
+
+260
+00:24:40,497 --> 00:24:42,665
+<font color="yellow">de ficar mais uma temporada.</font>
+
+261
+00:24:44,667 --> 00:24:46,127
+<font color="yellow">Se os androides
+trabalharem bem</font>
+
+262
+00:24:46,252 --> 00:24:48,562
+<font color="yellow">quero fazer minha prova
+para a Academia este ano.</font>
+
+263
+00:24:48,922 --> 00:24:50,799
+<font color="yellow">No próximo semestre,
+antes da colheita?</font>
+
+264
+00:24:50,924 --> 00:24:52,759
+<font color="yellow">Claro.
+Há muitos androides aqui.</font>
+
+265
+00:24:52,842 --> 00:24:55,171
+<font color="yellow">É na colheita que eu
+mais preciso de você.</font>
+
+266
+00:24:55,271 --> 00:24:57,071
+<font color="yellow">Só mais uma estação.</font>
+
+267
+00:24:57,097 --> 00:25:00,225
+<font color="yellow">Este ano, lucraremos muito.
+Contratarei mais ajudantes</font>
+
+268
+00:25:00,308 --> 00:25:03,002
+<font color="yellow">e a Academia fica
+para o ano que vem.</font>
+
+269
+00:25:03,561 --> 00:25:05,605
+<font color="yellow">Entenda, preciso de você aqui.</font>
+
+270
+00:25:05,688 --> 00:25:08,608
+<font color="yellow">- Mas é mais um ano inteiro.
+- Só mais uma temporada.</font>
+
+271
+00:25:08,691 --> 00:25:10,777
+<font color="yellow">É... Foi o que disse quando
+Biggs e Tank saíram.</font>
+
+272
+00:25:10,860 --> 00:25:13,321
+<font color="yellow">- Aonde vai?
+- Acho que a lugar nenhum.</font>
+
+273
+00:25:13,446 --> 00:25:15,198
+<font color="yellow">Tenho de limpar os androides.</font>
+
+274
+00:25:15,323 --> 00:25:17,160
+<font color="yellow">Owen, ele não pode
+ficar aqui para sempre.</font>
+
+275
+00:25:17,260 --> 00:25:19,060
+<font color="yellow">Os amigos dele
+foram embora.</font>
+
+276
+00:25:19,160 --> 00:25:20,787
+<font color="yellow">Significa muito para ele.</font>
+
+277
+00:25:21,496 --> 00:25:24,273
+<font color="yellow">Ele pode ir no ano que vem.
+Eu prometo.</font>
+
+278
+00:25:25,625 --> 00:25:29,504
+<font color="yellow">Luke não é um fazendeiro.
+Ele tem muita coisa de seu pai.</font>
+
+279
+00:25:30,521 --> 00:25:32,340
+<font color="yellow">É o que eu temo.</font>
+
+280
+00:26:21,306 --> 00:26:24,476
+<font color="yellow">- O que está fazendo aí?
+- Não é culpa minha, senhor.</font>
+
+281
+00:26:24,559 --> 00:26:26,352
+<font color="yellow">Por favor, não me desative.</font>
+
+282
+00:26:26,436 --> 00:26:29,063
+<font color="yellow">Eu disse a ele para não ir, mas
+ele não está funcionando bem.</font>
+
+283
+00:26:29,189 --> 00:26:31,158
+<font color="yellow">Fica resmungando
+sobre a sua missão.</font>
+
+284
+00:26:31,258 --> 00:26:32,558
+<font color="yellow">Essa não.</font>
+
+285
+00:26:40,909 --> 00:26:43,244
+<font color="yellow">Essa unidade R2
+sempre foi um problema.</font>
+
+286
+00:26:43,369 --> 00:26:45,997
+<font color="yellow">Aliás, essas engenhocas
+são totalmente imprevisíveis.</font>
+
+287
+00:26:46,080 --> 00:26:48,291
+<font color="yellow">Às vezes, nem eu
+entendo a sua lógica.</font>
+
+288
+00:26:48,416 --> 00:26:50,877
+<font color="yellow">Como pude sertão burro?
+Não o vejo em lugar algum.</font>
+
+289
+00:26:51,586 --> 00:26:53,087
+<font color="yellow">- Droga!
+- Desculpe, senhor.</font>
+
+290
+00:26:53,187 --> 00:26:54,631
+<font color="yellow">Mas não podemos
+ir atrás dele?</font>
+
+291
+00:26:54,731 --> 00:26:57,842
+<font color="yellow">É perigoso com o Povo da Areia
+por perto. É melhor de dia.</font>
+
+292
+00:26:57,942 --> 00:26:59,844
+<font color="yellow"><i>Luke! Desligarei a força.</i></font>
+
+293
+00:26:59,928 --> 00:27:01,888
+<font color="yellow">Já vou.
+Só mais um minutinho.</font>
+
+294
+00:27:02,597 --> 00:27:04,474
+<font color="yellow">Puxa, não será fácil.</font>
+
+295
+00:27:05,183 --> 00:27:07,345
+<font color="yellow">Aquele R2 me
+causará problemas.</font>
+
+296
+00:27:07,445 --> 00:27:09,445
+<font color="yellow">Ele é mestre nisso, senhor.</font>
+
+297
+00:27:10,313 --> 00:27:11,773
+<font color="yellow">Vamos.</font>
+
+298
+00:27:19,948 --> 00:27:21,241
+<font color="yellow">Luke.</font>
+
+299
+00:27:31,876 --> 00:27:33,795
+<font color="yellow">Viu o Luke hoje?</font>
+
+300
+00:27:33,878 --> 00:27:37,298
+<font color="yellow">Disse que tinha umas coisas
+para fazer. Saiu bem cedo.</font>
+
+301
+00:27:37,424 --> 00:27:40,427
+<font color="yellow">- Levou os dois androides novos?
+- Acho que sim.</font>
+
+302
+00:27:41,136 --> 00:27:43,972
+<font color="yellow">Melhor estarem trabalhando
+no morro sul até o meio-dia</font>
+
+303
+00:27:44,097 --> 00:27:45,723
+<font color="yellow">ou ele se dará mal.</font>
+
+304
+00:27:46,766 --> 00:27:49,310
+<font color="yellow">Veja. Há um androide
+no monitor ali na frente.</font>
+
+305
+00:27:49,436 --> 00:27:52,397
+<font color="yellow">Deve ser nossa unidade R2.
+Pise fundo no acelerador.</font>
+
+306
+00:28:14,836 --> 00:28:16,838
+<font color="yellow">Robozinho, aonde
+pensa que vai?</font>
+
+307
+00:28:17,839 --> 00:28:19,716
+<font color="yellow">O mestre Luke é o
+nosso dono agora.</font>
+
+308
+00:28:19,841 --> 00:28:22,802
+<font color="yellow">E chega dessa história
+de Obi-Wan Kenobi.</font>
+
+309
+00:28:24,012 --> 00:28:25,638
+<font color="yellow">Também não me fale
+sobre a sua missão.</font>
+
+310
+00:28:25,722 --> 00:28:28,892
+<font color="yellow">Tem sorte que ele não
+faça picadinho de você.</font>
+
+311
+00:28:29,017 --> 00:28:31,436
+<font color="yellow">Não, tudo bem.
+Mas é melhor irmos.</font>
+
+312
+00:28:32,771 --> 00:28:34,689
+<font color="yellow">O que há com ele agora?</font>
+
+313
+00:28:34,814 --> 00:28:37,609
+<font color="yellow">Várias criaturas se
+aproximam pelo sudeste.</font>
+
+314
+00:28:37,692 --> 00:28:39,736
+<font color="yellow">O Povo da Areia, ou pior.</font>
+
+315
+00:28:41,154 --> 00:28:43,156
+<font color="yellow">Venham, vamos
+dar uma olhada.</font>
+
+316
+00:28:43,239 --> 00:28:44,699
+<font color="yellow">Vamos.</font>
+
+317
+00:28:48,286 --> 00:28:50,872
+<font color="yellow">Há dois "banthas" ali embaixo,
+mas não vejo nenhum...</font>
+
+318
+00:28:50,997 --> 00:28:52,749
+<font color="yellow">Espere aí.</font>
+
+319
+00:28:52,874 --> 00:28:55,710
+<font color="yellow">É o Povo da Areia, sim.
+Estou vendo um deles agora.</font>
+
+320
+00:30:10,326 --> 00:30:11,536
+<font color="yellow">Olá.</font>
+
+321
+00:30:13,955 --> 00:30:17,208
+<font color="yellow">Venha cá, meu amiguinho.
+Não tenha medo.</font>
+
+322
+00:30:19,961 --> 00:30:21,629
+<font color="yellow">Não se preocupe,
+ele ficará bem.</font>
+
+323
+00:30:27,844 --> 00:30:30,388
+<font color="yellow">Calma, filho.
+Você teve um dia agitado.</font>
+
+324
+00:30:31,264 --> 00:30:34,184
+<font color="yellow">Tem sorte de ainda
+estar inteiro.</font>
+
+325
+00:30:37,479 --> 00:30:39,647
+<font color="yellow">Ben? Ben Kenobi?</font>
+
+326
+00:30:39,773 --> 00:30:41,733
+<font color="yellow">Puxa, que bom
+vê-lo aqui.</font>
+
+327
+00:30:41,816 --> 00:30:44,861
+<font color="yellow">O Deserto de Jundland não é
+para se viajar desse jeito.</font>
+
+328
+00:30:48,114 --> 00:30:51,576
+<font color="yellow">Diga-me, jovem Luke,
+o que o fez vir tão longe?</font>
+
+329
+00:30:52,327 --> 00:30:53,912
+<font color="yellow">Este pequeno androide.</font>
+
+330
+00:30:55,997 --> 00:30:57,540
+<font color="yellow">Acho que está procurando
+o seu antigo dono.</font>
+
+331
+00:30:57,665 --> 00:30:59,751
+<font color="yellow">Mas eu nunca vi tanta
+devoção em um androide.</font>
+
+332
+00:31:01,836 --> 00:31:04,923
+<font color="yellow">Ele diz ser propriedade
+de um certo Obi-Wan Kenobi.</font>
+
+333
+00:31:05,006 --> 00:31:08,009
+<font color="yellow">É algum parente seu?
+Sabe de quem ele está falando?</font>
+
+334
+00:31:09,177 --> 00:31:10,804
+<font color="yellow">Obi-Wan Kenobi?</font>
+
+335
+00:31:13,264 --> 00:31:14,724
+<font color="yellow">Obi-Wan.</font>
+
+336
+00:31:15,683 --> 00:31:19,646
+<font color="yellow">Esse é um nome que não
+ouço há muito tempo.</font>
+
+337
+00:31:20,438 --> 00:31:22,190
+<font color="yellow">Muito tempo.</font>
+
+338
+00:31:23,399 --> 00:31:26,361
+<font color="yellow">Acho que meu tio o conhece.
+Disse que já morreu.</font>
+
+339
+00:31:26,444 --> 00:31:28,113
+<font color="yellow">Não, não morreu.</font>
+
+340
+00:31:28,196 --> 00:31:29,405
+<font color="yellow">Ainda não.</font>
+
+341
+00:31:29,531 --> 00:31:32,492
+<font color="yellow">- Você o conhece?
+- É claro que o conheço.</font>
+
+342
+00:31:33,017 --> 00:31:34,352
+<font color="yellow">Sou eu.</font>
+
+343
+00:31:36,704 --> 00:31:39,916
+<font color="yellow">Não sou chamado de Obi-Wan...</font>
+
+344
+00:31:40,041 --> 00:31:42,669
+<font color="yellow">desde antes de você nascer.</font>
+
+345
+00:31:42,752 --> 00:31:44,379
+<font color="yellow">Quer dizer que o androide
+é mesmo seu?</font>
+
+346
+00:31:44,504 --> 00:31:47,132
+<font color="yellow">Pelo que me lembro,
+nunca tive androides.</font>
+
+347
+00:31:49,008 --> 00:31:50,468
+<font color="yellow">Muito interessante.</font>
+
+348
+00:31:52,554 --> 00:31:54,431
+<font color="yellow">Acho melhor nós entrarmos.</font>
+
+349
+00:31:55,140 --> 00:31:57,809
+<font color="yellow">O Povo da Areia
+se assusta fácil</font>
+
+350
+00:31:57,892 --> 00:32:00,728
+<font color="yellow">mas devem voltar logo.
+E em maior número.</font>
+
+351
+00:32:03,481 --> 00:32:04,607
+<font color="yellow">C-3PO.</font>
+
+352
+00:32:14,367 --> 00:32:16,995
+<font color="yellow">Onde estou?
+Devo ter tropeçado e caído.</font>
+
+353
+00:32:18,496 --> 00:32:21,708
+<font color="yellow">Pode se levantar? Temos de ir
+antes que o Povo da Areia volte.</font>
+
+354
+00:32:21,791 --> 00:32:24,544
+<font color="yellow">Eu acho que não consigo.
+Vá em frente, mestre Luke.</font>
+
+355
+00:32:24,627 --> 00:32:28,673
+<font color="yellow">Não faz sentido se arriscar por
+minha causa. Eu estou no fim.</font>
+
+356
+00:32:29,758 --> 00:32:31,634
+<font color="yellow">Não está, não.
+Não fale assim.</font>
+
+357
+00:32:31,760 --> 00:32:33,636
+<font color="yellow">Depressa, eles estão vindo.</font>
+
+358
+00:32:38,933 --> 00:32:42,312
+<font color="yellow">Meu pai não lutou nas guerras.
+Era piloto de cargueiro.</font>
+
+359
+00:32:42,437 --> 00:32:44,249
+<font color="yellow">Isso é o que seu
+tio lhe contou.</font>
+
+360
+00:32:44,349 --> 00:32:46,249
+<font color="yellow">Discordava dos
+ideais de seu pai.</font>
+
+361
+00:32:46,274 --> 00:32:49,360
+<font color="yellow">Achou melhor ficar aqui
+e não se envolver.</font>
+
+362
+00:32:50,111 --> 00:32:51,747
+<font color="yellow">Você lutou nas
+Guerras Clônicas?</font>
+
+363
+00:32:51,847 --> 00:32:53,147
+<font color="yellow">Sim!</font>
+
+364
+00:32:53,247 --> 00:32:56,159
+<font color="yellow">Era um Cavaleiro Jedi,
+assim como o seu pai.</font>
+
+365
+00:32:58,745 --> 00:33:00,455
+<font color="yellow">Queria tê-lo conhecido.</font>
+
+366
+00:33:00,580 --> 00:33:03,291
+<font color="yellow">Era o melhor piloto
+estelar desta galáxia.</font>
+
+367
+00:33:04,167 --> 00:33:06,085
+<font color="yellow">Um guerreiro astucioso.</font>
+
+368
+00:33:06,169 --> 00:33:08,713
+<font color="yellow">Eu soube que você também
+se tornou um bom piloto.</font>
+
+369
+00:33:10,965 --> 00:33:13,343
+<font color="yellow">E era um bom amigo.</font>
+
+370
+00:33:13,468 --> 00:33:14,886
+<font color="yellow">E por falar nisso...</font>
+
+371
+00:33:16,137 --> 00:33:18,098
+<font color="yellow">Tenho uma coisa
+para dar a você.</font>
+
+372
+00:33:20,141 --> 00:33:22,727
+<font color="yellow">Seu pai queria que recebesse
+isso quando estivesse adulto,</font>
+
+373
+00:33:22,811 --> 00:33:25,480
+<font color="yellow">mas seu tio não permitiu.</font>
+
+374
+00:33:26,397 --> 00:33:28,483
+<font color="yellow">Seu tio teve medo que você</font>
+
+375
+00:33:28,608 --> 00:33:32,028
+<font color="yellow">seguisse alguma cruzada idiota
+e idealista como seu pai fez.</font>
+
+376
+00:33:32,153 --> 00:33:35,073
+<font color="yellow">Senhor, se não precisar
+de mim, irei me desligar.</font>
+
+377
+00:33:35,156 --> 00:33:36,741
+<font color="yellow">Claro. Desligue.</font>
+
+378
+00:33:39,452 --> 00:33:42,831
+<font color="yellow">- O que é isso?
+- O sabre de luz do seu pai.</font>
+
+379
+00:33:43,665 --> 00:33:46,209
+<font color="yellow">É a arma de um Cavaleiro Jedi.</font>
+
+380
+00:33:46,334 --> 00:33:49,129
+<font color="yellow">É mais jeitosa e certeira
+que uma arma laser.</font>
+
+381
+00:33:50,171 --> 00:33:52,382
+<font color="yellow">Uma arma elegante.</font>
+
+382
+00:33:52,507 --> 00:33:55,468
+<font color="yellow">Para dias mais civilizados.</font>
+
+383
+00:33:57,345 --> 00:33:59,231
+<font color="yellow">Por mais de mil gerações...</font>
+
+384
+00:33:59,414 --> 00:34:01,468
+<font color="yellow">os Cavaleiros Jedi
+foram os guardiões</font>
+
+385
+00:34:01,568 --> 00:34:03,768
+<font color="yellow">da paz e da justiça
+na Velha República.</font>
+
+386
+00:34:04,352 --> 00:34:06,604
+<font color="yellow">Antes da Era das Trevas.</font>
+
+387
+00:34:06,688 --> 00:34:08,398
+<font color="yellow">Antes do Império.</font>
+
+388
+00:34:11,443 --> 00:34:13,361
+<font color="yellow">Como meu pai morreu?</font>
+
+389
+00:34:15,864 --> 00:34:18,366
+<font color="yellow">Um jovem Jedi chamado
+Darth Vader...</font>
+
+390
+00:34:18,491 --> 00:34:20,994
+<font color="yellow">que foi meu discípulo
+até se virar para o mal</font>
+
+391
+00:34:21,828 --> 00:34:25,123
+<font color="yellow">ajudou o Império a perseguir
+e destruir os Cavaleiros Jedi.</font>
+
+392
+00:34:26,916 --> 00:34:29,377
+<font color="yellow">Ele traiu e matou o seu pai.</font>
+
+393
+00:34:31,087 --> 00:34:33,381
+<font color="yellow">Agora, os Jedis estão
+quase extintos.</font>
+
+394
+00:34:34,674 --> 00:34:38,386
+<font color="yellow">Vader foi atraído
+pelo lado negro da Força.</font>
+
+395
+00:34:38,887 --> 00:34:40,430
+<font color="yellow">Da "Força"?</font>
+
+396
+00:34:41,389 --> 00:34:43,808
+<font color="yellow">A Força é o que dá
+poder ao Jedi.</font>
+
+397
+00:34:44,517 --> 00:34:47,687
+<font color="yellow">É um campo de energia criado
+por todos os seres vivos.</font>
+
+398
+00:34:47,771 --> 00:34:50,023
+<font color="yellow">Ele nos envolve e penetra.</font>
+
+399
+00:34:50,106 --> 00:34:51,816
+<font color="yellow">É o que mantém
+a galáxia unida.</font>
+
+400
+00:34:58,907 --> 00:35:01,451
+<font color="yellow">Agora, vejamos se descobrimos
+o que você é, amiguinho.</font>
+
+401
+00:35:02,744 --> 00:35:04,788
+<font color="yellow">E de onde veio.</font>
+
+402
+00:35:04,913 --> 00:35:07,874
+<font color="yellow">- Eu vi parte da mensagem...
+- Acho que a encontrei.</font>
+
+403
+00:35:07,957 --> 00:35:10,353
+<font color="yellow"><i>General Kenobi, no
+passado, o senhor</i></font>
+
+404
+00:35:10,453 --> 00:35:12,653
+<font color="yellow"><i>serviu a meu pai nas
+Guerras Clônicas.</i></font>
+
+405
+00:35:12,753 --> 00:35:15,799
+<font color="yellow"><i>Agora, ele pede a sua ajuda
+para lutar contra o Império.</i></font>
+
+406
+00:35:15,924 --> 00:35:19,010
+<font color="yellow"><i>Sinto não poder fazer
+o pedido pessoalmente.</i></font>
+
+407
+00:35:19,094 --> 00:35:20,896
+<font color="yellow"><i>Mas minha nave foi atacada</i></font>
+
+408
+00:35:20,996 --> 00:35:22,489
+<font color="yellow"><i>e acredito que minha missão</i></font>
+
+409
+00:35:22,589 --> 00:35:24,389
+<font color="yellow"><i>de levá-lo a Alderaan
+tenha falhado.</i></font>
+
+410
+00:35:24,489 --> 00:35:26,768
+<font color="yellow"><i>Eu gravei informações vitais
+à sobrevivência da rebelião</i></font>
+
+411
+00:35:26,851 --> 00:35:28,895
+<font color="yellow"><i>no sistema de memória
+desta unidade R2.</i></font>
+
+412
+00:35:29,220 --> 00:35:30,814
+<font color="yellow"><i>Meu pai saberá recuperá-la.</i></font>
+
+413
+00:35:31,606 --> 00:35:34,734
+<font color="yellow"><i>Deve levar este androide a
+salvo ao meu pai em Alderaan.</i></font>
+
+414
+00:35:35,610 --> 00:35:38,029
+<font color="yellow"><i>É um momento de
+desespero para nós.</i></font>
+
+415
+00:35:38,113 --> 00:35:41,241
+<font color="yellow"><i>Ajude-me, Obi-Wan Kenobi.
+É minha única esperança.</i></font>
+
+416
+00:35:56,214 --> 00:35:58,160
+<font color="yellow">Precisa aprender o
+alcance da Força.</font>
+
+417
+00:35:58,660 --> 00:36:00,660
+<font color="yellow">Se pretende ir
+comigo a Alderaan.</font>
+
+418
+00:36:01,185 --> 00:36:02,503
+<font color="yellow">Alderaan?</font>
+
+419
+00:36:02,603 --> 00:36:04,547
+<font color="yellow">Não irei a Alderaan.</font>
+
+420
+00:36:04,647 --> 00:36:06,882
+<font color="yellow">Tenho de voltar, já é tarde.
+Prefiro deixar como está.</font>
+
+421
+00:36:06,982 --> 00:36:09,468
+<font color="yellow">Preciso da sua ajuda, Luke.
+Ela precisa da sua ajuda.</font>
+
+422
+00:36:09,568 --> 00:36:12,138
+<font color="yellow">Estou muito velho
+para este tipo de coisa.</font>
+
+423
+00:36:16,609 --> 00:36:19,946
+<font color="yellow">Mas não posso me envolver.
+Já tenho o meu trabalho.</font>
+
+424
+00:36:20,780 --> 00:36:22,615
+<font color="yellow">Não é que eu goste do Império.
+Odeio...</font>
+
+425
+00:36:22,699 --> 00:36:25,326
+<font color="yellow">mas não há nada que
+eu possa fazer agora.</font>
+
+426
+00:36:26,786 --> 00:36:30,290
+<font color="yellow">- Fica tão distante daqui.
+- É o seu tio falando.</font>
+
+427
+00:36:30,373 --> 00:36:34,210
+<font color="yellow">Ainda tem meu tio.
+Como explicarei isto a ele?</font>
+
+428
+00:36:34,335 --> 00:36:36,755
+<font color="yellow">Procure conhecer
+a Força, Luke.</font>
+
+429
+00:36:43,178 --> 00:36:45,388
+<font color="yellow">Olhe, posso levá-lo
+até Anchorhead.</font>
+
+430
+00:36:46,097 --> 00:36:47,976
+<font color="yellow">De lá, pode
+conseguir transporte</font>
+
+431
+00:36:48,076 --> 00:36:50,276
+<font color="yellow">até Mos Eisley
+ou aonde queira ir.</font>
+
+432
+00:36:50,685 --> 00:36:53,688
+<font color="yellow">Deve fazer o que acha
+que é certo, claro.</font>
+
+433
+00:37:01,579 --> 00:37:05,166
+<font color="yellow">Até a Estação Bélica entrar
+em ação, estamos vulneráveis.</font>
+
+434
+00:37:05,466 --> 00:37:07,360
+<font color="yellow">A Aliança Rebelde
+está bem equipada.</font>
+
+435
+00:37:07,543 --> 00:37:09,162
+<font color="yellow">São mais perigosos
+do que se imagina.</font>
+
+436
+00:37:09,445 --> 00:37:12,123
+<font color="yellow">Perigosos para sua a
+Frota Estelar, comandante</font>
+
+437
+00:37:12,207 --> 00:37:13,917
+<font color="yellow">não para esta a Estação Bélica.</font>
+
+438
+00:37:14,042 --> 00:37:17,670
+<font color="yellow">A rebelião continuará tendo
+o apoio do Senado Imperial.</font>
+
+439
+00:37:17,754 --> 00:37:21,424
+<font color="yellow">O Senado Imperial deixará
+de nos causar transtorno.</font>
+
+440
+00:37:22,217 --> 00:37:23,676
+<font color="yellow">Acabo de receber a notícia</font>
+
+441
+00:37:23,760 --> 00:37:26,346
+<font color="yellow">de que o Imperador dissolveu
+o Conselho definitivamente.</font>
+
+442
+00:37:26,429 --> 00:37:30,016
+<font color="yellow">Os últimos remanescentes da
+Velha República foram varridos.</font>
+
+443
+00:37:30,767 --> 00:37:32,185
+<font color="yellow">Isso é impossível!</font>
+
+444
+00:37:32,268 --> 00:37:34,562
+<font color="yellow">Como o Imperador manterá
+o controle sem a burocracia?</font>
+
+445
+00:37:35,046 --> 00:37:36,481
+<font color="yellow">Os governadores regionais</font>
+
+446
+00:37:36,581 --> 00:37:39,150
+<font color="yellow">agora têm controle direto
+sobre os seus territórios.</font>
+
+447
+00:37:39,901 --> 00:37:43,530
+<font color="yellow">O medo manterá os
+sistemas locais comportados.</font>
+
+448
+00:37:43,947 --> 00:37:47,325
+<font color="yellow">- Medo desta Estação Bélica.
+- E quanto à rebelião?</font>
+
+449
+00:37:47,408 --> 00:37:50,620
+<font color="yellow">Se os rebeldes tiverem acesso
+ao projeto técnico da Estação</font>
+
+450
+00:37:50,745 --> 00:37:52,705
+<font color="yellow">é possível, embora improvável</font>
+
+451
+00:37:52,789 --> 00:37:54,874
+<font color="yellow">que encontrem um
+ponto fraco e o explorem.</font>
+
+452
+00:37:55,667 --> 00:37:59,212
+<font color="yellow">Os planos aos quais se refere
+logo estarão em nossas mãos.</font>
+
+453
+00:37:59,337 --> 00:38:01,491
+<font color="yellow">Qualquer ataque feito
+pelos rebeldes</font>
+
+454
+00:38:01,591 --> 00:38:03,591
+<font color="yellow">contra esta Estação
+será inofensivo.</font>
+
+455
+00:38:03,716 --> 00:38:05,718
+<font color="yellow">Sejam quais forem os dados
+técnicos que tenham obtido.</font>
+
+456
+00:38:05,802 --> 00:38:09,389
+<font color="yellow">Esta Estação é hoje
+o maior poder do universo.</font>
+
+457
+00:38:10,181 --> 00:38:11,850
+<font color="yellow">Sugiro que a usemos.</font>
+
+458
+00:38:11,933 --> 00:38:14,087
+<font color="yellow">Não tenha tanto
+orgulho desse</font>
+
+459
+00:38:14,187 --> 00:38:16,187
+<font color="yellow">terror tecnológico
+que construiu.</font>
+
+460
+00:38:16,271 --> 00:38:19,691
+<font color="yellow">A capacidade de destruir
+um planeta é insignificante</font>
+
+461
+00:38:19,774 --> 00:38:21,609
+<font color="yellow">perto do poder da Força.</font>
+
+462
+00:38:21,693 --> 00:38:25,113
+<font color="yellow">Não tente nos assustar com
+suas feitiçarias, Lorde Vader.</font>
+
+463
+00:38:25,238 --> 00:38:27,907
+<font color="yellow">A sua devoção doentia
+à antiga religião</font>
+
+464
+00:38:27,991 --> 00:38:30,785
+<font color="yellow">não ajudou a descobrir
+os dados roubados.</font>
+
+465
+00:38:30,869 --> 00:38:34,914
+<font color="yellow">Nem lhe deu clarividência para
+encontrar a fortaleza rebelde.</font>
+
+466
+00:38:41,796 --> 00:38:43,923
+<font color="yellow">Eu acho perturbadora
+a sua falta de fé.</font>
+
+467
+00:38:45,925 --> 00:38:48,595
+<font color="yellow">Já chega!
+Vader, solte-o!</font>
+
+468
+00:38:48,720 --> 00:38:50,138
+<font color="yellow">Como queira.</font>
+
+469
+00:38:52,390 --> 00:38:54,434
+<font color="yellow">Essas brigas não levam a nada.</font>
+
+470
+00:38:55,643 --> 00:38:57,414
+<font color="yellow">Lorde Vader nos
+fornecerá a</font>
+
+471
+00:38:57,514 --> 00:38:59,414
+<font color="yellow">localização da fortaleza
+dos rebeldes</font>
+
+472
+00:38:59,439 --> 00:39:01,483
+<font color="yellow">até que estejamos
+aptos a operar.</font>
+
+473
+00:39:02,192 --> 00:39:05,320
+<font color="yellow">Aí então, nós esmagaremos
+a rebelião com um só golpe.</font>
+
+474
+00:39:13,328 --> 00:39:15,181
+<font color="yellow">Parece que foi mesmo
+o Povo da Areia.</font>
+
+475
+00:39:15,281 --> 00:39:17,081
+<font color="yellow">Olhe aqui, bastões,
+trilha de banthas.</font>
+
+476
+00:39:17,181 --> 00:39:19,292
+<font color="yellow">Mas nunca soube que tivessem
+atacado algo deste tamanho.</font>
+
+477
+00:39:19,417 --> 00:39:22,754
+<font color="yellow">Não foram eles. Mas foi para
+pensarmos que sim.</font>
+
+478
+00:39:22,837 --> 00:39:24,756
+<font color="yellow">Essas trilhas estão
+lado a lado.</font>
+
+479
+00:39:24,839 --> 00:39:26,868
+<font color="yellow">O Povo da Areia
+sempre cavalga</font>
+
+480
+00:39:26,968 --> 00:39:28,968
+<font color="yellow">em fila para esconder
+quantos são.</font>
+
+481
+00:39:29,094 --> 00:39:31,971
+<font color="yellow">São os Jawas que venderam
+o R2 e o C-3PO para nós.</font>
+
+482
+00:39:32,055 --> 00:39:34,126
+<font color="yellow">E estes pontos
+de impacto são</font>
+
+483
+00:39:34,226 --> 00:39:36,426
+<font color="yellow">muito exatos para
+o Povo da Areia.</font>
+
+484
+00:39:36,935 --> 00:39:40,855
+<font color="yellow">Somente as Tropas Imperiais
+são tão precisas.</font>
+
+485
+00:39:40,939 --> 00:39:43,441
+<font color="yellow">Mas por que as Tropas Imperiais
+iriam querer matar os Jawas?</font>
+
+486
+00:39:48,905 --> 00:39:51,449
+<font color="yellow">Se seguiram os robôs, já sabem
+para quem foram vendidos.</font>
+
+487
+00:39:51,533 --> 00:39:53,451
+<font color="yellow">Isso os leva até...</font>
+
+488
+00:39:53,535 --> 00:39:55,370
+<font color="yellow">- minha casa!
+- Não. Espere, Luke!</font>
+
+489
+00:39:55,453 --> 00:39:57,413
+<font color="yellow">É muito perigoso!</font>
+
+490
+00:40:21,563 --> 00:40:22,897
+<font color="yellow">Tio Owen!</font>
+
+491
+00:40:23,022 --> 00:40:24,399
+<font color="yellow">Tia Beru!</font>
+
+492
+00:40:25,400 --> 00:40:26,901
+<font color="yellow">Tio Owen!</font>
+
+493
+00:41:17,076 --> 00:41:19,154
+<font color="yellow">E agora, Sua Alteza,
+vamos conversar</font>
+
+494
+00:41:19,279 --> 00:41:22,324
+<font color="yellow">sobre a localização da sua
+escondida base rebelde.</font>
+
+495
+00:42:05,500 --> 00:42:07,961
+<font color="yellow">Não poderia ter feito nada
+se estivesse lá.</font>
+
+496
+00:42:08,837 --> 00:42:10,713
+<font color="yellow">Teria sido morto também.</font>
+
+497
+00:42:10,839 --> 00:42:13,508
+<font color="yellow">E os androides estariam agora
+nas mãos do Império.</font>
+
+498
+00:42:15,343 --> 00:42:17,345
+<font color="yellow">Irei com você para Alderaan.</font>
+
+499
+00:42:18,096 --> 00:42:20,098
+<font color="yellow">Não me resta mais nada aqui.</font>
+
+500
+00:42:20,181 --> 00:42:23,184
+<font color="yellow">Quero aprender sobre a Força
+e ser um Jedi como meu pai.</font>
+
+501
+00:42:38,908 --> 00:42:41,202
+<font color="yellow">O porto espacial de Mos Eisley.</font>
+
+502
+00:42:41,327 --> 00:42:43,982
+<font color="yellow">Não existe outro
+lugar com tamanha</font>
+
+503
+00:42:44,082 --> 00:42:46,082
+<font color="yellow">concentração de
+escória e vilania.</font>
+
+504
+00:42:47,041 --> 00:42:49,002
+<font color="yellow">Precisamos ter cuidado.</font>
+
+505
+00:43:29,918 --> 00:43:31,836
+<font color="yellow">Há quanto tempo
+tem esses androides?</font>
+
+506
+00:43:31,920 --> 00:43:33,548
+<font color="yellow">Há 3 temporadas.</font>
+
+507
+00:43:33,648 --> 00:43:35,148
+<font color="yellow">Estão à venda
+se interessar.</font>
+
+508
+00:43:35,473 --> 00:43:37,050
+<font color="yellow">Deixe-me ver
+sua identificação.</font>
+
+509
+00:43:37,133 --> 00:43:40,428
+<font color="yellow">Não precisa ver
+a identificação dele.</font>
+
+510
+00:43:40,553 --> 00:43:42,931
+<font color="yellow">Não precisamos
+ver a identificação dele.</font>
+
+511
+00:43:43,014 --> 00:43:45,558
+<font color="yellow">Esses não são os androides
+que procuram.</font>
+
+512
+00:43:45,642 --> 00:43:47,560
+<font color="yellow">Esses não são os androides
+que procuramos.</font>
+
+513
+00:43:48,770 --> 00:43:51,106
+<font color="yellow">Já está dispensado.</font>
+
+514
+00:43:51,231 --> 00:43:54,442
+<font color="yellow">- Já está dispensado.
+- Podem ir.</font>
+
+515
+00:43:54,567 --> 00:43:55,777
+<font color="yellow">Podem ir.</font>
+
+516
+00:44:13,461 --> 00:44:16,589
+<font color="yellow">Eu não suporto esses Jawas.
+Criaturas repugnantes.</font>
+
+517
+00:44:17,632 --> 00:44:19,551
+<font color="yellow">Saia daqui. Saia.</font>
+
+518
+00:44:20,927 --> 00:44:22,639
+<font color="yellow">Não entendo como
+passamos pelos guardas.</font>
+
+519
+00:44:22,739 --> 00:44:24,239
+<font color="yellow">Pensei que fôssemos morrer.</font>
+
+520
+00:44:24,264 --> 00:44:28,560
+<font color="yellow">A Força pode ter firme
+influência sobre mentes fracas.</font>
+
+521
+00:44:31,855 --> 00:44:34,941
+<font color="yellow">Acha que encontraremos aqui um
+piloto que nos leve a Alderaan?</font>
+
+522
+00:44:35,024 --> 00:44:37,986
+<font color="yellow">Os melhores pilotos
+de frete vêm aqui.</font>
+
+523
+00:44:38,069 --> 00:44:41,906
+<font color="yellow">Mas tome cuidado.
+Este lugar pode ser perigoso.</font>
+
+524
+00:44:41,990 --> 00:44:44,117
+<font color="yellow">Estou pronto para
+qualquer coisa.</font>
+
+525
+00:44:47,620 --> 00:44:49,497
+<font color="yellow">Vamos lá, R2.</font>
+
+526
+00:45:39,547 --> 00:45:43,009
+<font color="yellow">- Vocês não podem entrar aqui.
+- O quê?</font>
+
+527
+00:45:43,134 --> 00:45:46,054
+<font color="yellow">Os androides esperam lá fora.
+Nós não os queremos aqui.</font>
+
+528
+00:45:46,179 --> 00:45:48,598
+<font color="yellow">Esperem lá fora, certo?
+Não queremos encrenca.</font>
+
+529
+00:45:48,723 --> 00:45:50,683
+<font color="yellow">Concordo plenamente, senhor.</font>
+
+530
+00:46:00,360 --> 00:46:02,320
+<font color="yellow">Quero um também.</font>
+
+531
+00:46:37,063 --> 00:46:39,732
+<font color="yellow">- Ele não gosta de você.
+- Que pena.</font>
+
+532
+00:46:41,776 --> 00:46:45,280
+<font color="yellow">E eu também não gosto de você.
+É bom tomar cuidado.</font>
+
+533
+00:46:45,405 --> 00:46:47,651
+<font color="yellow">Nós somos criminosos.
+Eu fui condenado</font>
+
+534
+00:46:47,751 --> 00:46:49,951
+<font color="yellow">à morte em 12
+sistemas estelares.</font>
+
+535
+00:46:50,076 --> 00:46:52,912
+<font color="yellow">- Eu tomarei cuidado.
+- Irá morrer!</font>
+
+536
+00:46:52,996 --> 00:46:54,914
+<font color="yellow">Esse baixinho não
+vale o esforço.</font>
+
+537
+00:46:56,124 --> 00:46:58,084
+<font color="yellow">Quero lhe dar uma coisa.</font>
+
+538
+00:47:24,944 --> 00:47:26,905
+<font color="yellow">Estou bem.</font>
+
+539
+00:47:28,239 --> 00:47:32,285
+<font color="yellow">O Chewbacca é copiloto de uma
+nave que pode nos servir.</font>
+
+540
+00:47:37,248 --> 00:47:39,250
+<font color="yellow">Eu não estou gostando.</font>
+
+541
+00:47:54,099 --> 00:47:57,644
+<font color="yellow">Han Solo. Sou o capitão
+da <i>Millennium Falcon.</i></font>
+
+542
+00:47:57,769 --> 00:47:59,380
+<font color="yellow">O Chewie me disse
+que procuram</font>
+
+543
+00:47:59,480 --> 00:48:01,180
+<font color="yellow">transporte para o
+Sistema Alderaan.</font>
+
+544
+00:48:01,280 --> 00:48:03,358
+<font color="yellow">É verdade.
+Se for uma nave rápida.</font>
+
+545
+00:48:03,483 --> 00:48:07,237
+<font color="yellow">Nave rápida? Nunca ouviu
+falar na <i>Millennium Falcon?</i></font>
+
+546
+00:48:07,762 --> 00:48:09,088
+<font color="yellow">E deveria?</font>
+
+547
+00:48:09,188 --> 00:48:12,200
+<font color="yellow">É a nave que fez o percurso de
+Kessel em menos de 12 parsecs.</font>
+
+548
+00:48:14,244 --> 00:48:16,538
+<font color="yellow">Deixei as naves imperiais
+comendo poeira.</font>
+
+549
+00:48:16,621 --> 00:48:18,581
+<font color="yellow">E não eram
+os cargueiros comuns.</font>
+
+550
+00:48:18,706 --> 00:48:20,834
+<font color="yellow">Falo das grandes
+naves corelianas.</font>
+
+551
+00:48:22,669 --> 00:48:24,671
+<font color="yellow">É rápida o suficiente
+para você, velho?</font>
+
+552
+00:48:25,755 --> 00:48:28,633
+<font color="yellow">- Qual é a carga?
+- Apenas passageiros.</font>
+
+553
+00:48:28,758 --> 00:48:31,553
+<font color="yellow">Eu, o rapaz, dois androides...</font>
+
+554
+00:48:32,720 --> 00:48:34,639
+<font color="yellow">e nada de perguntas.</font>
+
+555
+00:48:35,890 --> 00:48:37,725
+<font color="yellow">Está enrolado em
+alguma confusão?</font>
+
+556
+00:48:37,851 --> 00:48:42,822
+<font color="yellow">Digamos apenas que queremos
+evitar complicações imperiais.</font>
+
+557
+00:48:44,482 --> 00:48:47,193
+<font color="yellow">Sei. Essa é sua cartada?</font>
+
+558
+00:48:47,318 --> 00:48:49,237
+<font color="yellow">Custará um pouco mais.</font>
+
+559
+00:48:51,072 --> 00:48:52,824
+<font color="yellow">Dez mil. Adiantados.</font>
+
+560
+00:48:54,576 --> 00:48:55,869
+<font color="yellow">Dez mil?</font>
+
+561
+00:48:57,162 --> 00:48:59,706
+<font color="yellow">Dá quase para
+comprar uma nave.</font>
+
+562
+00:48:59,831 --> 00:49:02,083
+<font color="yellow">E quem irá pilotar, garoto?
+Você?</font>
+
+563
+00:49:02,167 --> 00:49:04,210
+<font color="yellow">Exatamente.
+Não sou mau piloto.</font>
+
+564
+00:49:04,335 --> 00:49:06,755
+<font color="yellow">Não temos de ouvir isso.</font>
+
+565
+00:49:06,838 --> 00:49:09,716
+<font color="yellow">Podemos pagar 2 mil agora.</font>
+
+566
+00:49:09,799 --> 00:49:13,094
+<font color="yellow">Mais quinze quando
+chegarmos a Alderaan.</font>
+
+567
+00:49:13,845 --> 00:49:15,013
+<font color="yellow">Dezessete?</font>
+
+568
+00:49:18,725 --> 00:49:21,019
+<font color="yellow">Certo.
+Conseguiram uma nave.</font>
+
+569
+00:49:21,102 --> 00:49:23,605
+<font color="yellow">Sairemos assim que
+estiverem prontos. Porto 94.</font>
+
+570
+00:49:23,688 --> 00:49:24,856
+<font color="yellow">94.</font>
+
+571
+00:49:26,441 --> 00:49:29,903
+<font color="yellow">Parece que estão
+ficando famosos aqui.</font>
+
+572
+00:49:31,070 --> 00:49:33,156
+<font color="yellow">Está bem.
+Vamos verificar.</font>
+
+573
+00:49:45,376 --> 00:49:48,797
+<font color="yellow">17 mil. Eles devem
+estar muito desesperados.</font>
+
+574
+00:49:48,922 --> 00:49:52,342
+<font color="yellow">Pode salvar a minha pele.
+Vá para a nave e arrume tudo.</font>
+
+575
+00:49:53,259 --> 00:49:55,261
+<font color="yellow">- Terá de vender o seu veículo.
+- Não faz mal.</font>
+
+576
+00:49:55,386 --> 00:49:57,388
+<font color="yellow">Não voltarei
+a este planeta mesmo.</font>
+
+577
+00:49:58,807 --> 00:50:01,101
+<font color="yellow">Vai a algum lugar, Solo?</font>
+
+578
+00:50:01,201 --> 00:50:04,104
+<font color="yellow">Sim, Greedo, já estava indo
+ver o seu chefe.</font>
+
+579
+00:50:04,187 --> 00:50:06,439
+<font color="yellow">Diga ao Jabba
+que já tenho o dinheiro.</font>
+
+580
+00:50:06,523 --> 00:50:08,441
+<font color="yellow">Agora é tarde.</font>
+
+581
+00:50:08,525 --> 00:50:10,944
+<font color="yellow">Deveria ter pago a ele
+quando teve a chance.</font>
+
+582
+00:50:11,527 --> 00:50:13,655
+<font color="yellow">Jabba colocou sua cabeça
+a um prêmio alto.</font>
+
+583
+00:50:13,780 --> 00:50:15,541
+<font color="yellow">Todos os caçadores
+de recompensas</font>
+
+584
+00:50:15,641 --> 00:50:17,441
+<font color="yellow">da galáxia estarão
+à sua procura.</font>
+
+585
+00:50:18,117 --> 00:50:19,619
+<font color="yellow">Tenho sorte por
+achá-lo primeiro.</font>
+
+586
+00:50:19,702 --> 00:50:21,871
+<font color="yellow">É, mas agora
+eu tenho o dinheiro.</font>
+
+587
+00:50:21,996 --> 00:50:25,542
+<font color="yellow">Se me der o dinheiro,
+esqueço que o encontrei.</font>
+
+588
+00:50:26,067 --> 00:50:28,403
+<font color="yellow">Não está aqui comigo.</font>
+
+589
+00:50:29,387 --> 00:50:30,948
+<font color="yellow">Jabba quer você morto.</font>
+
+590
+00:50:31,773 --> 00:50:34,175
+<font color="yellow">Ele não quer contrabandistas</font>
+
+591
+00:50:34,300 --> 00:50:35,770
+<font color="yellow">que jogam suas cargas ao</font>
+
+592
+00:50:35,870 --> 00:50:36,970
+<font color="yellow">primeiro sinal de
+uma nave imperial.</font>
+
+593
+00:50:37,053 --> 00:50:40,807
+<font color="yellow">Eles me abordaram.
+Não tive escolha.</font>
+
+594
+00:50:41,490 --> 00:50:45,178
+<font color="yellow">Diga isso ao Jabba. Talvez
+ele fique apenas com sua nave.</font>
+
+595
+00:50:46,003 --> 00:50:47,313
+<font color="yellow">Terá de me matar.</font>
+
+596
+00:50:47,597 --> 00:50:49,123
+<font color="yellow">Essa é a ideia.</font>
+
+597
+00:50:49,223 --> 00:50:53,152
+<font color="yellow">Há muito tempo
+que eu espero por isso.</font>
+
+598
+00:50:53,252 --> 00:50:54,628
+<font color="yellow">É, não duvido.</font>
+
+599
+00:51:08,709 --> 00:51:10,295
+<font color="yellow">Desculpe a sujeira.</font>
+
+600
+00:51:19,220 --> 00:51:22,582
+<font color="yellow">Sua resistência à investigação
+mental é considerável.</font>
+
+601
+00:51:22,682 --> 00:51:24,127
+<font color="yellow">Levará algum tempo até</font>
+
+602
+00:51:24,227 --> 00:51:26,227
+<font color="yellow">extrairmos alguma
+informação dela.</font>
+
+603
+00:51:26,327 --> 00:51:29,597
+<font color="yellow">A checagem final está completa.
+Todos os sistemas estão ativos.</font>
+
+604
+00:51:29,897 --> 00:51:31,691
+<font color="yellow">Que curso devemos tomar?</font>
+
+605
+00:51:31,816 --> 00:51:35,736
+<font color="yellow">Talvez devêssemos usar uma
+forma alternativa de persuasão.</font>
+
+606
+00:51:35,836 --> 00:51:37,346
+<font color="yellow">O que quer dizer?</font>
+
+607
+00:51:37,446 --> 00:51:40,291
+<font color="yellow">Vamos mostrar
+o poder total desta Estação.</font>
+
+608
+00:51:40,391 --> 00:51:42,677
+<font color="yellow">- Ajuste o curso para Alderaan.
+- Com prazer.</font>
+
+609
+00:51:43,745 --> 00:51:45,747
+<font color="yellow">Tranque a porta, R2.</font>
+
+610
+00:51:47,916 --> 00:51:49,876
+<font color="yellow">Verifiquem este lado da rua.</font>
+
+611
+00:51:54,089 --> 00:51:56,633
+<font color="yellow">Porta trancada.
+Passem para a seguinte.</font>
+
+612
+00:52:04,064 --> 00:52:06,826
+<font color="yellow">Seria melhor ter ido com mestre
+Luke que ficar aqui com você.</font>
+
+613
+00:52:07,376 --> 00:52:09,138
+<font color="yellow">Não sei o motivo
+dessa trapalhada,</font>
+
+614
+00:52:09,238 --> 00:52:11,038
+<font color="yellow">mas a culpa
+deve ser sua.</font>
+
+615
+00:52:11,231 --> 00:52:12,732
+<font color="yellow">Não gosto desta linguagem!</font>
+
+616
+00:52:15,818 --> 00:52:18,120
+<font color="yellow">Está bem, eu aceito.
+Me dê isso aqui.</font>
+
+617
+00:52:18,520 --> 00:52:22,541
+<font color="yellow">Veja... Desde de que a XP-38
+surgiu, ninguém mais quer essa.</font>
+
+618
+00:52:22,641 --> 00:52:24,227
+<font color="yellow">Será o suficiente.</font>
+
+619
+00:52:42,603 --> 00:52:45,806
+<font color="yellow">Solo, saia daí! Solo!</font>
+
+620
+00:52:46,641 --> 00:52:48,643
+<font color="yellow">Eu estou aqui, Jabba.</font>
+
+621
+00:52:50,653 --> 00:52:52,196
+<font color="yellow">Eu estava esperando você.</font>
+
+622
+00:52:52,296 --> 00:52:53,840
+<font color="yellow">Estava mesmo?</font>
+
+623
+00:52:55,775 --> 00:52:57,844
+<font color="yellow">Achou que eu fosse fugir?</font>
+
+624
+00:52:58,553 --> 00:53:02,574
+<font color="yellow">Han, meu garoto,
+você me decepcionou.</font>
+
+625
+00:53:02,657 --> 00:53:04,742
+<font color="yellow">Por que não me pagou?</font>
+
+626
+00:53:05,326 --> 00:53:08,246
+<font color="yellow">E por que matou o
+pobre Greedo?</font>
+
+627
+00:53:08,829 --> 00:53:11,374
+<font color="yellow">Da próxima vez que quiser falar
+comigo, venha pessoalmente.</font>
+
+628
+00:53:11,474 --> 00:53:13,025
+<font color="yellow">Não envie seus capangas.</font>
+
+629
+00:53:13,125 --> 00:53:16,254
+<font color="yellow">Han, não posso
+abrir exceções.</font>
+
+630
+00:53:16,337 --> 00:53:19,215
+<font color="yellow">E se todos que
+contrabandeiam para mim</font>
+
+631
+00:53:19,340 --> 00:53:21,885
+<font color="yellow">jogassem as cargas
+ao primeiro sinal</font>
+
+632
+00:53:22,010 --> 00:53:24,637
+<font color="yellow">de uma nave imperial?</font>
+
+633
+00:53:25,921 --> 00:53:27,439
+<font color="yellow">Não seria um bom negócio.</font>
+
+634
+00:53:27,723 --> 00:53:30,143
+<font color="yellow">Acontece que eles
+me abordaram.</font>
+
+635
+00:53:31,394 --> 00:53:33,855
+<font color="yellow">O que eu poderia fazer?</font>
+
+636
+00:53:33,938 --> 00:53:35,732
+<font color="yellow">Mas acabei de fechar
+um excelente negócio.</font>
+
+637
+00:53:35,857 --> 00:53:39,861
+<font color="yellow">Pagarei o que devo e com
+acréscimo. Só preciso de tempo.</font>
+
+638
+00:53:39,986 --> 00:53:44,933
+<font color="yellow">Han, meu garoto,
+você é o melhor.</font>
+
+639
+00:53:45,658 --> 00:53:48,036
+<font color="yellow">Por um adicional de 20%...</font>
+
+640
+00:53:48,119 --> 00:53:50,121
+<font color="yellow">Não force, 15%.</font>
+
+641
+00:53:50,205 --> 00:53:52,290
+<font color="yellow">Está bem, 15%.</font>
+
+642
+00:53:52,373 --> 00:53:54,501
+<font color="yellow">Mas se falhar de novo</font>
+
+643
+00:53:54,626 --> 00:53:57,545
+<font color="yellow">colocarei um preço alto
+pela sua cabeça.</font>
+
+644
+00:53:57,670 --> 00:54:01,841
+<font color="yellow">Nunca mais poderá passar perto
+de um sistema civilizado.</font>
+
+645
+00:54:01,966 --> 00:54:04,719
+<font color="yellow">Jabba, você é um
+ser maravilhoso.</font>
+
+646
+00:54:06,721 --> 00:54:08,055
+<font color="yellow">Vamos!</font>
+
+647
+00:54:14,153 --> 00:54:17,823
+<font color="yellow">Se a nave for tão veloz quanto
+ele diz, dará tudo certo.</font>
+
+648
+00:54:41,255 --> 00:54:43,132
+<font color="yellow">Que monte de sucata.</font>
+
+649
+00:54:43,257 --> 00:54:45,718
+<font color="yellow">Chega a passar .5
+da velocidade da luz.</font>
+
+650
+00:54:45,843 --> 00:54:48,638
+<font color="yellow">A aparência pode não ser
+das melhores, mas é muito boa.</font>
+
+651
+00:54:48,763 --> 00:54:51,724
+<font color="yellow">Eu mesmo fiz um monte
+de modificações especiais.</font>
+
+652
+00:54:51,807 --> 00:54:55,728
+<font color="yellow">Mas estamos com pressa. Então,
+vamos embarcar e sair daqui.</font>
+
+653
+00:55:00,608 --> 00:55:02,109
+<font color="yellow">Olá, senhor.</font>
+
+654
+00:55:11,202 --> 00:55:12,662
+<font color="yellow">Para que lado?</font>
+
+655
+00:55:14,288 --> 00:55:16,290
+<font color="yellow">Atenção, carreguem as armas.</font>
+
+656
+00:55:17,917 --> 00:55:20,461
+<font color="yellow">Parem essa nave! Fogo!</font>
+
+657
+00:55:30,304 --> 00:55:32,306
+<font color="yellow">Chewie, tire-nos daqui!</font>
+
+658
+00:55:33,766 --> 00:55:37,270
+<font color="yellow">Puxa! Havia esquecido o quanto
+odeio viagens espaciais.</font>
+
+659
+00:55:55,830 --> 00:55:57,291
+<font color="yellow">É um cruzador imperial.</font>
+
+660
+00:55:57,391 --> 00:55:59,091
+<font color="yellow">Nossos passageiros
+são importantes.</font>
+
+661
+00:55:59,191 --> 00:56:00,926
+<font color="yellow">Mantenha-os longe.
+Ajuste o escudo defletor</font>
+
+662
+00:56:01,026 --> 00:56:03,345
+<font color="yellow">enquanto eu faço os cálculos
+para a velocidade da luz.</font>
+
+663
+00:56:13,389 --> 00:56:16,267
+<font color="yellow">Fique de olho, há mais dois
+chegando. Tentarão nos pegar.</font>
+
+664
+00:56:16,350 --> 00:56:18,394
+<font color="yellow">Por que não os deixa para trás?
+Essa coisa não é veloz?</font>
+
+665
+00:56:18,519 --> 00:56:20,754
+<font color="yellow">Olhe a boca, garoto!
+Quer flutuar de volta para casa?</font>
+
+666
+00:56:20,855 --> 00:56:24,275
+<font color="yellow">Estaremos a salvo assim
+que entrarmos no hiperespaço.</font>
+
+667
+00:56:24,358 --> 00:56:26,235
+<font color="yellow">Sei de umas manobras
+para despistá-los.</font>
+
+668
+00:56:30,364 --> 00:56:32,166
+<font color="yellow">Agora está ficando divertido.</font>
+
+669
+00:56:32,291 --> 00:56:34,243
+<font color="yellow">Quanto tempo até chegarmos
+à velocidade da luz?</font>
+
+670
+00:56:34,368 --> 00:56:37,246
+<font color="yellow">Pouco... Estou esperando
+as coordenadas do computador.</font>
+
+671
+00:56:37,371 --> 00:56:38,915
+<font color="yellow">Está brincando?
+Com eles se aproximando?</font>
+
+672
+00:56:39,040 --> 00:56:42,043
+<font color="yellow">Viajar pelo hiperespaço
+não é como regar plantações.</font>
+
+673
+00:56:42,168 --> 00:56:43,377
+<font color="yellow">Sem coordenadas...</font>
+
+674
+00:56:43,502 --> 00:56:45,838
+<font color="yellow">batemos numa estrela ou
+perto de uma supernova</font>
+
+675
+00:56:45,922 --> 00:56:48,299
+<font color="yellow">o que acabaria
+com nossa viagem.</font>
+
+676
+00:56:48,382 --> 00:56:50,760
+<font color="yellow">- O que é aquilo piscando?
+- É o escudo defletor.</font>
+
+677
+00:56:50,885 --> 00:56:53,804
+<font color="yellow">Já era. Segurem firme,
+entrarei na velocidade da luz.</font>
+
+678
+00:57:14,784 --> 00:57:17,078
+<font color="yellow">Entramos no sistema Alderaan.</font>
+
+679
+00:57:18,120 --> 00:57:20,183
+<font color="yellow">Governador Tarkin.
+Já esperava</font>
+
+680
+00:57:20,283 --> 00:57:22,183
+<font color="yellow">encontrá-lo com
+Vader na coleira.</font>
+
+681
+00:57:22,208 --> 00:57:25,836
+<font color="yellow">Reconheci seu mau cheiro
+ao entrar a bordo.</font>
+
+682
+00:57:27,255 --> 00:57:29,173
+<font color="yellow">Graciosa até o fim.</font>
+
+683
+00:57:30,091 --> 00:57:31,968
+<font color="yellow">Não imagina o quanto
+eu sofri para assinar</font>
+
+684
+00:57:32,093 --> 00:57:33,970
+<font color="yellow">a sua sentença de morte.</font>
+
+685
+00:57:34,095 --> 00:57:36,931
+<font color="yellow">Que coragem a sua assumir
+tanta responsabilidade.</font>
+
+686
+00:57:37,056 --> 00:57:40,184
+<font color="yellow">Princesa Leia,
+antes de sua execução</font>
+
+687
+00:57:40,268 --> 00:57:41,778
+<font color="yellow">quero que seja minha convidada</font>
+
+688
+00:57:41,903 --> 00:57:45,564
+<font color="yellow">na cerimônia inaugural
+desta Estação Bélica.</font>
+
+689
+00:57:45,690 --> 00:57:48,484
+<font color="yellow">Agora, nenhum sistema estelar
+ousará opor-se ao Imperador.</font>
+
+690
+00:57:48,985 --> 00:57:51,112
+<font color="yellow">Quanto mais aperta
+o cerco, Tarkin</font>
+
+691
+00:57:51,237 --> 00:57:53,864
+<font color="yellow">mais sistemas estelares
+perderá.</font>
+
+692
+00:57:53,948 --> 00:57:56,701
+<font color="yellow">Não depois de demonstrarmos
+o poder desta Estação.</font>
+
+693
+00:57:57,410 --> 00:58:00,830
+<font color="yellow">De certo modo, você determinou
+a escolha do planeta</font>
+
+694
+00:58:00,955 --> 00:58:03,082
+<font color="yellow">que será destruído primeiro.</font>
+
+695
+00:58:03,165 --> 00:58:07,670
+<font color="yellow">Já que se recusa a nos revelar
+a localização da base rebelde</font>
+
+696
+00:58:07,795 --> 00:58:10,590
+<font color="yellow">eu decidi testar o poder
+destrutivo desta Estação</font>
+
+697
+00:58:10,673 --> 00:58:12,633
+<font color="yellow">no seu planeta natal,
+Alderaan.</font>
+
+698
+00:58:13,634 --> 00:58:16,387
+<font color="yellow">Não! Alderaan é pacífico.
+Não temos armas. Não pode...</font>
+
+699
+00:58:16,470 --> 00:58:18,806
+<font color="yellow">Prefere um outro alvo?
+Um alvo militar?</font>
+
+700
+00:58:18,931 --> 00:58:21,100
+<font color="yellow">Então, escolha o sistema.</font>
+
+701
+00:58:23,060 --> 00:58:26,397
+<font color="yellow">Já estou cansado de perguntar.
+Esta será a última vez.</font>
+
+702
+00:58:27,315 --> 00:58:29,150
+<font color="yellow">Onde fica a base rebelde?</font>
+
+703
+00:58:32,737 --> 00:58:34,280
+<font color="yellow">Dantooine.</font>
+
+704
+00:58:34,989 --> 00:58:36,824
+<font color="yellow">Fica em Dantooine.</font>
+
+705
+00:58:36,907 --> 00:58:40,286
+<font color="yellow">Está vendo só, Lorde Vader.
+Ela pode ser razoável.</font>
+
+706
+00:58:40,369 --> 00:58:43,205
+<font color="yellow">Continue com a operação.
+Atire quando estiver pronto.</font>
+
+707
+00:58:43,331 --> 00:58:45,458
+<font color="yellow">- O quê?
+- Você é muito ingênua.</font>
+
+708
+00:58:45,583 --> 00:58:48,002
+<font color="yellow">Dantooine fica longe demais
+para uma demonstração eficaz.</font>
+
+709
+00:58:48,127 --> 00:58:52,673
+<font color="yellow">Mas calma, vamos cuidar
+de seus amigos rebeldes logo.</font>
+
+710
+00:58:52,798 --> 00:58:54,183
+<font color="yellow">Não!</font>
+
+711
+00:58:55,634 --> 00:58:57,478
+<font color="yellow"><i>Iniciar a ignição primária.</i></font>
+
+712
+00:59:20,576 --> 00:59:22,703
+<font color="yellow">Você está bem?
+O que foi?</font>
+
+713
+00:59:24,163 --> 00:59:26,332
+<font color="yellow">Senti um grande
+distúrbio na Força.</font>
+
+714
+00:59:26,415 --> 00:59:29,585
+<font color="yellow">Como se milhões de vozes
+de repente gritassem de terror</font>
+
+715
+00:59:29,710 --> 00:59:31,629
+<font color="yellow">e subitamente silenciassem.</font>
+
+716
+00:59:32,338 --> 00:59:34,340
+<font color="yellow">Sinto que alguma coisa
+terrível aconteceu.</font>
+
+717
+00:59:36,092 --> 00:59:38,344
+<font color="yellow">É melhor continuar
+com os exercícios.</font>
+
+718
+00:59:40,888 --> 00:59:43,307
+<font color="yellow">Não se preocupem com
+os cruzadores imperiais.</font>
+
+719
+00:59:43,391 --> 00:59:45,393
+<font color="yellow">Não disse que conseguiria?</font>
+
+720
+00:59:49,397 --> 00:59:51,440
+<font color="yellow">Não me agradeçam
+todos ao mesmo tempo.</font>
+
+721
+00:59:51,565 --> 00:59:54,944
+<font color="yellow">Se interessar a alguém, devemos
+chegar a Alderaan em 2 horas.</font>
+
+722
+01:00:03,536 --> 01:00:05,496
+<font color="yellow">Agora, cuidado, R2.</font>
+
+723
+01:00:14,922 --> 01:00:17,466
+<font color="yellow">Ele fez uma bela jogada.
+Não adianta gritar.</font>
+
+724
+01:00:17,592 --> 01:00:19,719
+<font color="yellow">Não é bom contrariar
+um Wookie.</font>
+
+725
+01:00:19,844 --> 01:00:22,179
+<font color="yellow">Senhor, ninguém se preocupa
+quando contrariam um androide.</font>
+
+726
+01:00:22,263 --> 01:00:26,851
+<font color="yellow">Porque um androide não arranca
+o braço de ninguém se perder.</font>
+
+727
+01:00:27,268 --> 01:00:29,437
+<font color="yellow">Os Wookies são famosos
+por fazer isso.</font>
+
+728
+01:00:31,188 --> 01:00:33,024
+<font color="yellow">Entendi a mensagem, senhor.</font>
+
+729
+01:00:33,107 --> 01:00:36,736
+<font color="yellow">Sugiro uma nova estratégia, R2.
+Deixe o Wookie vencer.</font>
+
+730
+01:00:55,254 --> 01:00:58,841
+<font color="yellow">Lembre-se, um Jedi pode sentir
+a Força fluindo dentro de si.</font>
+
+731
+01:00:59,634 --> 01:01:01,969
+<font color="yellow">- Ela controla as suas ações?
+- Em parte.</font>
+
+732
+01:01:02,053 --> 01:01:03,971
+<font color="yellow">Mas também obedece
+aos seus comandos.</font>
+
+733
+01:01:09,185 --> 01:01:11,056
+<font color="yellow">Religiões supersticiosas
+e armas antigas</font>
+
+734
+01:01:11,156 --> 01:01:13,356
+<font color="yellow">não são páreo
+para um laser.</font>
+
+735
+01:01:14,106 --> 01:01:16,525
+<font color="yellow">Não acredita na Força,
+não é?</font>
+
+736
+01:01:16,651 --> 01:01:18,728
+<font color="yellow">Já voei de um lado a outro
+nesta galáxia</font>
+
+737
+01:01:18,853 --> 01:01:20,630
+<font color="yellow">e já vi muita coisa estranha</font>
+
+738
+01:01:20,755 --> 01:01:23,407
+<font color="yellow">mas nunca vi nada
+que me fizesse acreditar</font>
+
+739
+01:01:23,491 --> 01:01:26,827
+<font color="yellow">que existe uma força poderosa
+controlando tudo.</font>
+
+740
+01:01:26,953 --> 01:01:31,040
+<font color="yellow">Nenhum campo de energia mística
+controla meu destino.</font>
+
+741
+01:01:31,165 --> 01:01:34,001
+<font color="yellow">É tudo bobagem e um monte
+de truques baratos.</font>
+
+742
+01:01:34,126 --> 01:01:37,004
+<font color="yellow">Eu sugiro que você
+tente de novo, Luke.</font>
+
+743
+01:01:38,381 --> 01:01:41,342
+<font color="yellow">Desta vez,
+deixe de lado o raciocínio</font>
+
+744
+01:01:43,177 --> 01:01:45,388
+<font color="yellow">e aja pelo instinto.</font>
+
+745
+01:01:46,514 --> 01:01:49,976
+<font color="yellow">Com a viseira abaixada, não
+consigo ver. Como posso lutar?</font>
+
+746
+01:01:50,059 --> 01:01:52,478
+<font color="yellow">Seus olhos podem enganá-lo.
+Não confie neles.</font>
+
+747
+01:02:01,904 --> 01:02:04,198
+<font color="yellow">Siga a sua intuição.</font>
+
+748
+01:02:18,671 --> 01:02:20,840
+<font color="yellow">Viu? Você consegue.</font>
+
+749
+01:02:20,923 --> 01:02:22,550
+<font color="yellow">Chamo isso de sorte.</font>
+
+750
+01:02:22,675 --> 01:02:25,261
+<font color="yellow">Posso garantir
+que não existe sorte.</font>
+
+751
+01:02:25,386 --> 01:02:27,638
+<font color="yellow">Ser bom contra bolinhas
+é uma coisa.</font>
+
+752
+01:02:27,722 --> 01:02:30,725
+<font color="yellow">Mas contra um ser vivo,
+é bem diferente.</font>
+
+753
+01:02:31,851 --> 01:02:33,769
+<font color="yellow">Estamos quase chegando
+a Alderaan.</font>
+
+754
+01:02:37,189 --> 01:02:39,859
+<font color="yellow">Sabe, eu senti algo.
+Quase podia ver a bolinha.</font>
+
+755
+01:02:39,984 --> 01:02:44,363
+<font color="yellow">Isso é ótimo. Deu seu primeiro
+passo rumo a um mundo maior.</font>
+
+756
+01:02:49,577 --> 01:02:51,162
+<font color="yellow">O que é?</font>
+
+757
+01:02:51,245 --> 01:02:53,247
+<font color="yellow">Nossos batedores
+chegaram a Dantooine.</font>
+
+758
+01:02:53,331 --> 01:02:55,249
+<font color="yellow">Encontraram o resto
+de uma base rebelde</font>
+
+759
+01:02:55,333 --> 01:02:57,710
+<font color="yellow">mas acreditam que tenha sido
+abandonada há algum tempo.</font>
+
+760
+01:02:57,793 --> 01:03:01,130
+<font color="yellow">Estão realizando uma busca
+minuciosa nos sistemas vizinhos.</font>
+
+761
+01:03:02,173 --> 01:03:04,717
+<font color="yellow">Ela mentiu.
+Ela mentiu para nós.</font>
+
+762
+01:03:04,842 --> 01:03:08,512
+<font color="yellow">Eu avisei que conscientemente
+ela jamais trairia a rebelião.</font>
+
+763
+01:03:09,589 --> 01:03:11,566
+<font color="yellow">Matem-na imediatamente!</font>
+
+764
+01:03:14,685 --> 01:03:17,313
+<font color="yellow">Fique alerta, Chewie.
+Desligando os motores sub-luz.</font>
+
+765
+01:03:20,066 --> 01:03:21,450
+<font color="yellow">O que é isso?</font>
+
+766
+01:03:24,320 --> 01:03:26,190
+<font color="yellow">Caímos em uma
+chuva de meteoros.</font>
+
+767
+01:03:26,290 --> 01:03:28,090
+<font color="yellow">Deve ter sido um
+choque de asteroides.</font>
+
+768
+01:03:28,115 --> 01:03:30,409
+<font color="yellow">- Não está nos mapas.
+- O que está acontecendo?</font>
+
+769
+01:03:30,534 --> 01:03:32,828
+<font color="yellow">Nossa posição está correta,
+mas onde está Alderaan?</font>
+
+770
+01:03:32,954 --> 01:03:35,164
+<font color="yellow">- Como assim, "onde está"?
+- É o que estou tentando dizer.</font>
+
+771
+01:03:35,289 --> 01:03:37,083
+<font color="yellow">Não está lá.
+Sumiu completamente.</font>
+
+772
+01:03:37,208 --> 01:03:39,919
+<font color="yellow">- Como?
+- Destruído pelo Império.</font>
+
+773
+01:03:40,002 --> 01:03:42,213
+<font color="yellow">Nem a frota estelar seria
+capaz de destruir o planeta.</font>
+
+774
+01:03:42,296 --> 01:03:44,840
+<font color="yellow">Precisariam de mil naves
+com mais poder de fogo...</font>
+
+775
+01:03:46,425 --> 01:03:48,636
+<font color="yellow">- Há outra nave chegando.
+- Devem saber o que houve.</font>
+
+776
+01:03:48,761 --> 01:03:50,012
+<font color="yellow">É um caça imperial.</font>
+
+777
+01:03:52,098 --> 01:03:53,684
+<font color="yellow">Ele nos seguiu.</font>
+
+778
+01:03:53,784 --> 01:03:55,284
+<font color="yellow">Não, é só um caça
+de pequeno alcance.</font>
+
+779
+01:03:55,384 --> 01:03:57,436
+<font color="yellow">Não existem bases aqui.
+De onde ele veio?</font>
+
+780
+01:04:00,231 --> 01:04:02,942
+<font color="yellow">Está com pressa. Se nos
+identificarem, estamos fritos.</font>
+
+781
+01:04:03,067 --> 01:04:05,152
+<font color="yellow">Comigo aqui, não.
+Chewie, gere interferência.</font>
+
+782
+01:04:05,278 --> 01:04:06,737
+<font color="yellow">Seria melhor deixar para lá.</font>
+
+783
+01:04:06,821 --> 01:04:08,614
+<font color="yellow">- Está muito fora de alcance.
+- Não por muito tempo.</font>
+
+784
+01:04:12,493 --> 01:04:14,205
+<font color="yellow">Um caça desse tipo
+não pode entrar</font>
+
+785
+01:04:14,305 --> 01:04:15,805
+<font color="yellow">sozinho no espaço profundo.</font>
+
+786
+01:04:15,830 --> 01:04:18,457
+<font color="yellow">Deve ter se perdido. Devia fazer
+parte de uma esquadrilha.</font>
+
+787
+01:04:18,583 --> 01:04:21,460
+<font color="yellow">Não rodará muito para
+contar a alguém sobre nós.</font>
+
+788
+01:04:23,963 --> 01:04:25,840
+<font color="yellow">Está indo para aquela lua.</font>
+
+789
+01:04:25,965 --> 01:04:28,467
+<font color="yellow">Podemos pegá-lo antes.
+Está quase na mira.</font>
+
+790
+01:04:30,011 --> 01:04:32,138
+<font color="yellow">Aquilo não é uma lua.</font>
+
+791
+01:04:32,263 --> 01:04:34,058
+<font color="yellow">É uma Estação Espacial.</font>
+
+792
+01:04:34,158 --> 01:04:36,158
+<font color="yellow">É muito grande para
+ser uma Estação.</font>
+
+793
+01:04:38,936 --> 01:04:41,355
+<font color="yellow">Estou com mau pressentimento.</font>
+
+794
+01:04:41,480 --> 01:04:43,316
+<font color="yellow">Vire a nave.</font>
+
+795
+01:04:43,441 --> 01:04:45,651
+<font color="yellow">É, tem razão.
+Marcha à ré.</font>
+
+796
+01:04:45,776 --> 01:04:47,778
+<font color="yellow">Chewie, potência auxiliar.</font>
+
+797
+01:04:52,533 --> 01:04:54,660
+<font color="yellow">Chewie, ligue a potência auxiliar.</font>
+
+798
+01:04:56,704 --> 01:04:58,664
+<font color="yellow">Por que ainda
+estamos indo para ela?</font>
+
+799
+01:04:58,748 --> 01:05:00,541
+<font color="yellow">É um raio trator e
+está nos puxando.</font>
+
+800
+01:05:00,666 --> 01:05:02,335
+<font color="yellow">Tem de fazer alguma coisa.</font>
+
+801
+01:05:02,418 --> 01:05:04,454
+<font color="yellow">Não posso.
+Estou com toda potência.</font>
+
+802
+01:05:04,554 --> 01:05:05,854
+<font color="yellow">Terei que desligar.</font>
+
+803
+01:05:05,954 --> 01:05:07,757
+<font color="yellow">Mas não me entregarei
+sem luta.</font>
+
+804
+01:05:11,302 --> 01:05:14,805
+<font color="yellow">Não pode ganhar. Mas existem
+outras formas de lutar.</font>
+
+805
+01:05:31,489 --> 01:05:33,658
+<font color="yellow"><i>Desimpedir compartimento 327.</i></font>
+
+806
+01:05:33,741 --> 01:05:36,077
+<font color="yellow"><i>Vamos abrir o campo magnético.</i></font>
+
+807
+01:05:50,716 --> 01:05:52,677
+<font color="yellow">A seus postos.
+Venham comigo.</font>
+
+808
+01:05:57,265 --> 01:06:00,643
+<font color="yellow"><i>Fechar a blindagem externa.</i></font>
+
+809
+01:06:02,353 --> 01:06:03,671
+<font color="yellow">O que foi?</font>
+
+810
+01:06:03,771 --> 01:06:06,399
+<font color="yellow"><i>Capturamos um cargueiro entrando
+nos restos do sistema Alderaan.</i></font>
+
+811
+01:06:06,524 --> 01:06:08,361
+<font color="yellow"><i>Suas características conferem com</i></font>
+
+812
+01:06:08,461 --> 01:06:10,261
+<font color="yellow"><i>as da nave que escapou
+de Mos Eisley.</i></font>
+
+813
+01:06:10,444 --> 01:06:14,240
+<font color="yellow">Devem estar tentando devolver
+os planos roubados à Princesa.</font>
+
+814
+01:06:14,365 --> 01:06:17,410
+<font color="yellow">Ela ainda pode nos ser útil.</font>
+
+815
+01:06:22,456 --> 01:06:25,751
+<font color="yellow"><i>Destravar 2, 1, 5, 7 e 9.
+Liberar carga.</i></font>
+
+816
+01:06:33,801 --> 01:06:35,411
+<font color="yellow">Ninguém a bordo, senhor.</font>
+
+817
+01:06:35,511 --> 01:06:37,847
+<font color="yellow">De acordo com o diário, a
+tripulação abandonou a nave.</font>
+
+818
+01:06:38,681 --> 01:06:41,475
+<font color="yellow">Deve ser uma isca. Os módulos
+de fuga foram acionados.</font>
+
+819
+01:06:41,601 --> 01:06:43,519
+<font color="yellow">- Encontraram algum androide?
+- Não, senhor.</font>
+
+820
+01:06:43,644 --> 01:06:45,479
+<font color="yellow">Se havia alguém a bordo,
+foi lançado também.</font>
+
+821
+01:06:45,605 --> 01:06:47,466
+<font color="yellow">Mande vasculhar tudo.
+Quero que até</font>
+
+822
+01:06:47,566 --> 01:06:49,166
+<font color="yellow">a menor parte da nave
+seja examinada.</font>
+
+823
+01:06:49,191 --> 01:06:50,443
+<font color="yellow">Sim, senhor.</font>
+
+824
+01:06:50,526 --> 01:06:52,069
+<font color="yellow">Eu sinto algo.</font>
+
+825
+01:06:52,194 --> 01:06:54,614
+<font color="yellow">Uma presença
+que não sinto desde...</font>
+
+826
+01:06:57,366 --> 01:07:00,703
+<font color="yellow">Peça uma equipe de busca.
+Chequem a nave de cima a baixo.</font>
+
+827
+01:07:09,754 --> 01:07:11,714
+<font color="yellow">Não tem ninguém aqui.</font>
+
+828
+01:07:20,640 --> 01:07:22,767
+<font color="yellow">Que sorte ter esses
+compartimentos.</font>
+
+829
+01:07:22,850 --> 01:07:25,978
+<font color="yellow">Uso para o contrabando.
+Nunca achei que eu seria um.</font>
+
+830
+01:07:26,062 --> 01:07:27,229
+<font color="yellow">Que idiotice.</font>
+
+831
+01:07:27,355 --> 01:07:29,857
+<font color="yellow">Mesmo que pudesse decolar,
+não passaria pelo raio trator.</font>
+
+832
+01:07:29,982 --> 01:07:31,317
+<font color="yellow">Deixem isso comigo.</font>
+
+833
+01:07:31,400 --> 01:07:34,445
+<font color="yellow">Velho tolo.
+Sabia que diria isso.</font>
+
+834
+01:07:34,528 --> 01:07:37,990
+<font color="yellow">Quem é mais tolo?
+O tolo, ou o tolo que o segue?</font>
+
+835
+01:07:47,625 --> 01:07:49,154
+<font color="yellow">A nave é toda sua.</font>
+
+836
+01:07:49,254 --> 01:07:51,254
+<font color="yellow">Se acharem algo,
+avisem de imediato.</font>
+
+837
+01:07:52,880 --> 01:07:54,382
+<font color="yellow">Muito bem, vamos.</font>
+
+838
+01:08:09,063 --> 01:08:11,023
+<font color="yellow"><i>Vocês aí embaixo.</i></font>
+
+839
+01:08:12,733 --> 01:08:14,694
+<font color="yellow"><i>Podem nos dar uma ajuda?</i></font>
+
+840
+01:08:23,077 --> 01:08:25,538
+<font color="yellow">TK-421, por que não está
+no seu posto?</font>
+
+841
+01:08:26,747 --> 01:08:28,708
+<font color="yellow">TK-421, está me ouvindo?</font>
+
+842
+01:08:40,761 --> 01:08:42,581
+<font color="yellow">Assuma.
+O transmissor não está bom.</font>
+
+843
+01:08:42,681 --> 01:08:43,981
+<font color="yellow">Vou ver o que posso fazer.</font>
+
+844
+01:09:01,532 --> 01:09:03,910
+<font color="yellow">Com ele berrando e você
+quebrando tudo</font>
+
+845
+01:09:04,035 --> 01:09:06,262
+<font color="yellow">é impossível não saberem
+que estamos aqui.</font>
+
+846
+01:09:06,387 --> 01:09:09,415
+<font color="yellow">Que venham. Prefiro uma boa
+briga a ficar escondido.</font>
+
+847
+01:09:09,540 --> 01:09:11,292
+<font color="yellow">Achamos a saída do computador.</font>
+
+848
+01:09:11,417 --> 01:09:14,420
+<font color="yellow">Ligue. Ele pode ser capaz
+de acessar toda a rede imperial.</font>
+
+849
+01:09:25,640 --> 01:09:28,100
+<font color="yellow">Diz que encontrou os controles
+principais do raio de força</font>
+
+850
+01:09:28,184 --> 01:09:29,352
+<font color="yellow">que está prendendo a nave.</font>
+
+851
+01:09:29,477 --> 01:09:32,104
+<font color="yellow">Tentará mostrar
+a localização no monitor.</font>
+
+852
+01:09:32,188 --> 01:09:36,442
+<font color="yellow">O raio trator está acoplado
+ao reator principal em 7 pontos.</font>
+
+853
+01:09:36,525 --> 01:09:39,528
+<font color="yellow">A perda de potência num deles
+possibilita a saída da nave.</font>
+
+854
+01:09:42,323 --> 01:09:45,534
+<font color="yellow">Não creio que possam ajudar.
+Devo ir sozinho.</font>
+
+855
+01:09:45,660 --> 01:09:49,038
+<font color="yellow">Fique à vontade. Já fiz muito
+mais do que o combinado.</font>
+
+856
+01:09:49,163 --> 01:09:51,290
+<font color="yellow">- Eu quero ir com você.
+- Seja paciente, Luke.</font>
+
+857
+01:09:51,374 --> 01:09:53,167
+<font color="yellow">- Fique e cuide dos androides.
+- Mas ele pode...</font>
+
+858
+01:09:53,292 --> 01:09:55,086
+<font color="yellow">Eles devem ser
+entregues ilesos</font>
+
+859
+01:09:55,169 --> 01:09:58,339
+<font color="yellow">ou outros sistemas estelares
+terão o mesmo fim que Alderaan.</font>
+
+860
+01:09:58,464 --> 01:10:01,759
+<font color="yellow">O seu destino é muito
+diferente do meu, Luke.</font>
+
+861
+01:10:05,346 --> 01:10:07,306
+<font color="yellow">A Força estará com você.</font>
+
+862
+01:10:07,431 --> 01:10:08,808
+<font color="yellow">Sempre.</font>
+
+863
+01:10:18,359 --> 01:10:20,653
+<font color="yellow">É isso aí, Chewie.</font>
+
+864
+01:10:20,736 --> 01:10:23,072
+<font color="yellow">Escute, onde desencavou
+esse fóssil velho?</font>
+
+865
+01:10:24,198 --> 01:10:25,783
+<font color="yellow">Ben é um grande homem.</font>
+
+866
+01:10:25,866 --> 01:10:27,628
+<font color="yellow">Sim, grande para nos
+arrumar problemas.</font>
+
+867
+01:10:27,728 --> 01:10:29,128
+<font color="yellow">Não vi você dando
+alguma ideia.</font>
+
+868
+01:10:29,228 --> 01:10:31,914
+<font color="yellow">Qualquer coisa é melhor
+do que ficar aqui e ser preso.</font>
+
+869
+01:10:32,039 --> 01:10:33,433
+<font color="yellow">Quem pensa que é...</font>
+
+870
+01:10:34,458 --> 01:10:37,670
+<font color="yellow">- O que foi?
+- Não estou muito certo, senhor.</font>
+
+871
+01:10:37,795 --> 01:10:40,339
+<font color="yellow">Ele disse: "Eu a encontrei".
+E fica repetindo: "Ela está aqui."</font>
+
+872
+01:10:40,464 --> 01:10:43,050
+<font color="yellow">Quem?
+Quem ele encontrou?</font>
+
+873
+01:10:43,175 --> 01:10:45,886
+<font color="yellow">- A Princesa Leia.
+- A Princesa está aqui?</font>
+
+874
+01:10:46,012 --> 01:10:47,638
+<font color="yellow">- Princesa?
+- Onde ela está?</font>
+
+875
+01:10:47,805 --> 01:10:49,682
+<font color="yellow">Princesa?
+Que história é essa?</font>
+
+876
+01:10:55,146 --> 01:10:57,898
+<font color="yellow">Nível 5.
+Bloco de detenção AA-23.</font>
+
+877
+01:11:02,737 --> 01:11:05,364
+<font color="yellow">Ela está prestes
+a ser executada.</font>
+
+878
+01:11:05,489 --> 01:11:08,451
+<font color="yellow">Essa não.
+Temos de fazer alguma coisa.</font>
+
+879
+01:11:08,576 --> 01:11:11,037
+<font color="yellow">- Do que estão falando?
+- Os androides são dela.</font>
+
+880
+01:11:11,120 --> 01:11:13,039
+<font color="yellow">Ela é quem está na mensagem.
+Temos de ajudá-la.</font>
+
+881
+01:11:13,122 --> 01:11:16,000
+<font color="yellow">Não invente nada, rapaz. O velho
+disse para ficarmos aqui.</font>
+
+882
+01:11:16,083 --> 01:11:17,578
+<font color="yellow">Ele não sabia que
+ela estava aqui.</font>
+
+883
+01:11:17,678 --> 01:11:19,178
+<font color="yellow">Ache o caminho para
+o bloco de detenção.</font>
+
+884
+01:11:19,278 --> 01:11:22,481
+<font color="yellow">- Eu não sairei daqui.
+- Eles vão executá-la.</font>
+
+885
+01:11:22,581 --> 01:11:25,551
+<font color="yellow">Disse que não queria ficar e
+ser preso. Agora quer ficar?</font>
+
+886
+01:11:25,676 --> 01:11:28,721
+<font color="yellow">Ir para a área de detenção
+não é bem o que eu queria.</font>
+
+887
+01:11:28,846 --> 01:11:31,641
+<font color="yellow">- Mas eles vão matá-la.
+- Antes ela do que eu.</font>
+
+888
+01:11:39,398 --> 01:11:40,733
+<font color="yellow">Ela é rica.</font>
+
+889
+01:11:43,361 --> 01:11:44,737
+<font color="yellow">Rica?</font>
+
+890
+01:11:45,446 --> 01:11:49,450
+<font color="yellow">Rica e muito poderosa.
+Se você a salvasse, poderia ter...</font>
+
+891
+01:11:49,575 --> 01:11:52,370
+<font color="yellow">- O quê?
+- Mais riqueza do que imagina.</font>
+
+892
+01:11:52,453 --> 01:11:54,413
+<font color="yellow">Não sei não.
+Posso imaginar muita coisa.</font>
+
+893
+01:11:54,538 --> 01:11:56,582
+<font color="yellow">- Você terá.
+- Acho bom.</font>
+
+894
+01:11:56,707 --> 01:11:58,167
+<font color="yellow">Você verá.</font>
+
+895
+01:11:58,292 --> 01:12:01,420
+<font color="yellow">Está certo, garoto. É melhor
+estar falando a verdade.</font>
+
+896
+01:12:01,504 --> 01:12:03,130
+<font color="yellow">Qual o seu plano?</font>
+
+897
+01:12:03,839 --> 01:12:06,300
+<font color="yellow">C-3PO, me dê aquelas
+algemas ali, por favor.</font>
+
+898
+01:12:09,971 --> 01:12:11,847
+<font color="yellow">Agora, eu coloco
+isto em você...</font>
+
+899
+01:12:13,057 --> 01:12:16,227
+<font color="yellow">É melhor que você coloque.</font>
+
+900
+01:12:17,311 --> 01:12:19,772
+<font color="yellow">Não se preocupe, Chewie.
+Já sei o que ele quer fazer.</font>
+
+901
+01:12:19,897 --> 01:12:22,275
+<font color="yellow">Mestre Luke, perdoe-me,</font>
+
+902
+01:12:22,400 --> 01:12:25,611
+<font color="yellow">mas o que R2 e eu faremos
+se formos descobertos aqui?</font>
+
+903
+01:12:26,136 --> 01:12:27,532
+<font color="yellow">Trancar a porta.</font>
+
+904
+01:12:27,632 --> 01:12:29,532
+<font color="yellow">E esperar para não
+terem <i>blasters</i>.</font>
+
+905
+01:12:29,632 --> 01:12:31,617
+<font color="yellow">Isso não é muito animador.</font>
+
+906
+01:12:52,013 --> 01:12:54,473
+<font color="yellow"><i>517, apresente-se ao Controle.</i></font>
+
+907
+01:13:00,146 --> 01:13:02,023
+<font color="yellow"><i>316, apresente-se ao Controle.</i></font>
+
+908
+01:13:23,002 --> 01:13:25,338
+<font color="yellow">Não vejo nada
+com este capacete.</font>
+
+909
+01:13:56,744 --> 01:13:59,455
+<font color="yellow">- Isto não dará certo.
+- Por que não falou antes?</font>
+
+910
+01:13:59,580 --> 01:14:01,540
+<font color="yellow">Eu falei antes, sim.</font>
+
+911
+01:14:16,514 --> 01:14:19,725
+<font color="yellow">Para onde estão levando essa...
+coisa.</font>
+
+912
+01:14:19,850 --> 01:14:22,561
+<font color="yellow">Transferência de prisioneiro
+do pavilhão 1138.</font>
+
+913
+01:14:23,896 --> 01:14:25,815
+<font color="yellow">Eu não fui informado.</font>
+
+914
+01:14:25,940 --> 01:14:27,900
+<font color="yellow">Verificarei.</font>
+
+915
+01:14:34,282 --> 01:14:36,784
+<font color="yellow">- Cuidado! Ele se soltou!
+- Irá estraçalhar a gente.</font>
+
+916
+01:15:01,183 --> 01:15:02,551
+<font color="yellow">Cuidado!</font>
+
+917
+01:15:12,445 --> 01:15:14,906
+<font color="yellow">Temos de descobrir
+a cela da tal Princesa.</font>
+
+918
+01:15:14,989 --> 01:15:17,199
+<font color="yellow">Encontrei. 2187, vá buscá-la.</font>
+
+919
+01:15:17,325 --> 01:15:19,285
+<font color="yellow">Eu os seguro aqui.</font>
+
+920
+01:15:23,205 --> 01:15:25,791
+<font color="yellow">Está tudo sob controle.
+Situação normal.</font>
+
+921
+01:15:25,917 --> 01:15:27,126
+<font color="yellow"><i>O que aconteceu?</i></font>
+
+922
+01:15:27,209 --> 01:15:29,128
+<font color="yellow">Um probleminha com as armas.</font>
+
+923
+01:15:29,211 --> 01:15:31,547
+<font color="yellow">Mas já está tudo
+na mais perfeita ordem.</font>
+
+924
+01:15:31,672 --> 01:15:34,842
+<font color="yellow">Está tudo certo. E todos
+estão bem aqui. Obrigado.</font>
+
+925
+01:15:34,967 --> 01:15:37,637
+<font color="yellow">- E o senhor?
+- <i>Mandarei uma equipe aí.</i></font>
+
+926
+01:15:38,679 --> 01:15:41,807
+<font color="yellow">Negativo! Houve um
+vazamento do reator</font>
+
+927
+01:15:41,891 --> 01:15:45,811
+<font color="yellow">e teremos de consertar.
+É um vazamento perigoso.</font>
+
+928
+01:15:45,895 --> 01:15:48,439
+<font color="yellow"><i>Quem é você? Qual o seu</i>
+<i>número de identificação?</i></font>
+
+929
+01:15:50,900 --> 01:15:54,320
+<font color="yellow">Mas que conversa fiada.
+Luke, teremos companhia!</font>
+
+930
+01:16:08,668 --> 01:16:11,712
+<font color="yellow">Não é muito baixo
+para a tropa de elite?</font>
+
+931
+01:16:11,837 --> 01:16:13,297
+<font color="yellow">O uniforme.</font>
+
+932
+01:16:14,715 --> 01:16:16,801
+<font color="yellow">Eu sou Luke Skywalker.
+Vim para salvá-la.</font>
+
+933
+01:16:16,926 --> 01:16:19,053
+<font color="yellow">- Quem é você?
+- Estou aqui para salvá-la.</font>
+
+934
+01:16:19,178 --> 01:16:20,846
+<font color="yellow">Trouxe a unidade R2.
+Estou com Ben Kenobi.</font>
+
+935
+01:16:20,930 --> 01:16:23,599
+<font color="yellow">- Ben Kenobi? Onde ele está?
+- Vamos!</font>
+
+936
+01:16:25,184 --> 01:16:28,354
+<font color="yellow">- Ele está aqui.
+- Obi-Wan Kenobi?</font>
+
+937
+01:16:29,105 --> 01:16:32,441
+<font color="yellow">- Por que acha isso?
+- Um tremor na Força.</font>
+
+938
+01:16:32,566 --> 01:16:36,404
+<font color="yellow">A última vez que senti isso foi
+na presença do meu velho mestre.</font>
+
+939
+01:16:36,529 --> 01:16:38,906
+<font color="yellow">Ele já deve ter morrido.</font>
+
+940
+01:16:39,031 --> 01:16:41,367
+<font color="yellow">Não subestime a Força.</font>
+
+941
+01:16:42,493 --> 01:16:45,705
+<font color="yellow">Os Jedis estão extintos.
+Suas chamas sumiram do universo.</font>
+
+942
+01:16:46,581 --> 01:16:49,166
+<font color="yellow">Você, meu amigo,
+é o que resta da religião deles.</font>
+
+943
+01:16:50,001 --> 01:16:51,168
+<font color="yellow">O que foi?</font>
+
+944
+01:16:51,252 --> 01:16:54,755
+<font color="yellow"><i>Temos um aviso de emergência</i>
+<i>do pavilhão de detenção AA-23.</i></font>
+
+945
+01:16:55,464 --> 01:16:58,009
+<font color="yellow">A Princesa.
+Ponha todos em alerta.</font>
+
+946
+01:16:58,092 --> 01:17:01,762
+<font color="yellow">Obi-Wan está aqui.
+A Força está com ele.</font>
+
+947
+01:17:01,887 --> 01:17:04,724
+<font color="yellow">Se estiver certo,
+ele não pode escapar.</font>
+
+948
+01:17:04,807 --> 01:17:08,269
+<font color="yellow">Ele não pretende fugir.
+Devo enfrentá-lo sozinho.</font>
+
+949
+01:17:17,612 --> 01:17:19,113
+<font color="yellow">Fique atrás de mim!</font>
+
+950
+01:17:30,583 --> 01:17:33,294
+<font color="yellow">Vigiem a esquerda.
+Foram para o pavilhão das celas.</font>
+
+951
+01:17:36,339 --> 01:17:39,258
+<font color="yellow">- Não dá para sair por ali.
+- Inutilizou nossa única saída.</font>
+
+952
+01:17:39,342 --> 01:17:41,844
+<font color="yellow">Quer voltar para sua cela,
+Sua Alteza?</font>
+
+953
+01:17:44,430 --> 01:17:46,557
+<font color="yellow">- C-3PO.
+- <i>Sim, senhor.</i></font>
+
+954
+01:17:46,974 --> 01:17:50,436
+<font color="yellow">Há outra saída do pavilhão
+das celas? Fomos interceptados.</font>
+
+955
+01:17:52,647 --> 01:17:54,899
+<font color="yellow">O que disse? Não entendi.</font>
+
+956
+01:17:54,982 --> 01:17:58,444
+<font color="yellow">Todos os sistemas foram
+alertados para a sua presença.</font>
+
+957
+01:17:58,527 --> 01:18:01,072
+<font color="yellow">A porta principal é o único
+meio de entrar ou sair.</font>
+
+958
+01:18:01,155 --> 01:18:03,407
+<font color="yellow">Qualquer outra informação sobre
+esse andar está inacessível.</font>
+
+959
+01:18:03,491 --> 01:18:06,035
+<font color="yellow"><i>Abram essa porta!</i></font>
+
+960
+01:18:07,078 --> 01:18:08,746
+<font color="yellow">Essa não!</font>
+
+961
+01:18:08,829 --> 01:18:10,414
+<font color="yellow">Não existe outra saída.</font>
+
+962
+01:18:15,836 --> 01:18:18,047
+<font color="yellow">Não ficarei aqui para sempre.
+E agora?</font>
+
+963
+01:18:18,147 --> 01:18:21,592
+<font color="yellow">Belo resgate. Quando entraram,
+não tinham um plano para sair?</font>
+
+964
+01:18:21,676 --> 01:18:23,678
+<font color="yellow">O sabe-tudo é ele, queridinha!</font>
+
+965
+01:18:23,803 --> 01:18:25,471
+<font color="yellow">Bem, eu não...</font>
+
+966
+01:18:26,681 --> 01:18:30,101
+<font color="yellow">- Que diabos está fazendo?
+- Alguém tem de nos salvar.</font>
+
+967
+01:18:32,311 --> 01:18:34,146
+<font color="yellow">Vamos fugir pela
+rampa de lixo.</font>
+
+968
+01:18:41,654 --> 01:18:43,013
+<font color="yellow">Entre aí!</font>
+
+969
+01:18:43,864 --> 01:18:46,867
+<font color="yellow">Entre aí, seu peludo reclamão.
+Dane-se o mau cheiro!</font>
+
+970
+01:18:47,868 --> 01:18:50,371
+<font color="yellow">Entre aí e não se preocupe.</font>
+
+971
+01:18:52,415 --> 01:18:53,916
+<font color="yellow">Garota maravilhosa!</font>
+
+972
+01:18:56,043 --> 01:18:59,255
+<font color="yellow">Não sei se a mato ou
+me apaixono por ela.</font>
+
+973
+01:19:00,756 --> 01:19:02,675
+<font color="yellow">Entre!</font>
+
+974
+01:19:15,396 --> 01:19:18,816
+<font color="yellow">O depósito de lixo
+foi realmente uma ótima ideia.</font>
+
+975
+01:19:18,941 --> 01:19:21,360
+<font color="yellow">E que aroma gostoso
+aqui embaixo, não é?</font>
+
+976
+01:19:24,572 --> 01:19:26,866
+<font color="yellow">Vamos dar o fora daqui.</font>
+
+977
+01:19:27,199 --> 01:19:29,410
+<font color="yellow">- Saia, Chewie.
+- Não, espere!</font>
+
+978
+01:19:35,333 --> 01:19:37,710
+<font color="yellow">Esqueça, já tentei!
+É fechado magneticamente.</font>
+
+979
+01:19:37,793 --> 01:19:40,046
+<font color="yellow">Guarde isso!
+Acabará matando todos nós.</font>
+
+980
+01:19:40,379 --> 01:19:42,298
+<font color="yellow">Ora, ora, Princesa.</font>
+
+981
+01:19:42,381 --> 01:19:44,717
+<font color="yellow">Estava tudo sob controle
+até nos trazer para cá!</font>
+
+982
+01:19:44,842 --> 01:19:47,720
+<font color="yellow">Logo nos acharão aqui.</font>
+
+983
+01:19:47,845 --> 01:19:49,805
+<font color="yellow">Poderia ser pior.</font>
+
+984
+01:19:54,018 --> 01:19:55,269
+<font color="yellow">E é pior.</font>
+
+985
+01:19:55,394 --> 01:19:58,314
+<font color="yellow">- Há alguma coisa viva aqui.
+- É a sua imaginação.</font>
+
+986
+01:19:58,981 --> 01:20:00,900
+<font color="yellow">Alguma coisa
+roçou na minha perna.</font>
+
+987
+01:20:02,610 --> 01:20:04,695
+<font color="yellow">Olhem!
+Vocês viram aquilo?</font>
+
+988
+01:20:04,779 --> 01:20:06,096
+<font color="yellow">O quê?</font>
+
+989
+01:20:27,343 --> 01:20:28,803
+<font color="yellow">Luke!</font>
+
+990
+01:20:41,607 --> 01:20:43,359
+<font color="yellow">Segure isto!</font>
+
+991
+01:20:43,484 --> 01:20:45,820
+<font color="yellow">Atire nele, minha
+arma emperrou!</font>
+
+992
+01:20:45,945 --> 01:20:48,698
+<font color="yellow">- Onde?
+- Em qualquer lugar!</font>
+
+993
+01:20:56,581 --> 01:20:57,940
+<font color="yellow">Luke!</font>
+
+994
+01:21:21,355 --> 01:21:22,982
+<font color="yellow">Pegue-o!</font>
+
+995
+01:21:23,065 --> 01:21:25,484
+<font color="yellow">- O que aconteceu?
+- Eu não sei.</font>
+
+996
+01:21:25,610 --> 01:21:27,904
+<font color="yellow">Essa coisa me soltou
+e desapareceu.</font>
+
+997
+01:21:33,993 --> 01:21:35,953
+<font color="yellow">Tenho um mau pressentimento.</font>
+
+998
+01:21:42,043 --> 01:21:45,212
+<font color="yellow">- As paredes estão se mexendo.
+- Segurem com alguma coisa!</font>
+
+999
+01:21:53,846 --> 01:21:55,306
+<font color="yellow">Ajudem-me!</font>
+
+1000
+01:22:08,486 --> 01:22:10,154
+<font color="yellow">Esperem!</font>
+
+1001
+01:22:12,240 --> 01:22:15,201
+<font color="yellow">C-3PO! Responda, C-3PO!</font>
+
+1002
+01:22:16,452 --> 01:22:17,995
+<font color="yellow"><i>C- 3PO.</i></font>
+
+1003
+01:22:18,079 --> 01:22:20,039
+<font color="yellow"><i>Onde será que ele está?</i></font>
+
+1004
+01:22:24,335 --> 01:22:26,462
+<font color="yellow">Assuma o comando.</font>
+
+1005
+01:22:28,965 --> 01:22:30,424
+<font color="yellow">Olhem ali.</font>
+
+1006
+01:22:32,885 --> 01:22:35,221
+<font color="yellow">Eles são malucos.
+Vão para o nível da prisão.</font>
+
+1007
+01:22:35,346 --> 01:22:37,223
+<font color="yellow">Se correrem,
+ainda podem pegá-los.</font>
+
+1008
+01:22:37,348 --> 01:22:38,808
+<font color="yellow">Sigam-me!</font>
+
+1009
+01:22:42,603 --> 01:22:44,563
+<font color="yellow">Fique de guarda.</font>
+
+1010
+01:22:49,402 --> 01:22:50,736
+<font color="yellow">Vamos.</font>
+
+1011
+01:22:58,744 --> 01:23:01,998
+<font color="yellow">Toda essa confusão prejudicou
+os circuitos do meu amigo.</font>
+
+1012
+01:23:02,123 --> 01:23:05,251
+<font color="yellow">Se me permite, gostaria
+de levá-lo para a manutenção.</font>
+
+1013
+01:23:05,334 --> 01:23:06,877
+<font color="yellow">Está certo.</font>
+
+1014
+01:23:19,098 --> 01:23:21,809
+<font color="yellow">C-3PO! Responda, C-3PO!</font>
+
+1015
+01:23:21,934 --> 01:23:23,144
+<font color="yellow">C-3PO!</font>
+
+1016
+01:23:23,269 --> 01:23:26,105
+<font color="yellow">- Suba aí.
+- Não posso.</font>
+
+1017
+01:23:26,230 --> 01:23:28,065
+<font color="yellow">Onde estará? C-3PO!</font>
+
+1018
+01:23:29,483 --> 01:23:31,277
+<font color="yellow">C-3PO! Está ouvindo?</font>
+
+1019
+01:23:32,069 --> 01:23:34,280
+<font color="yellow">Não estão aqui.
+Alguma coisa aconteceu.</font>
+
+1020
+01:23:34,405 --> 01:23:36,574
+<font color="yellow">Veja se foram capturados.
+Depressa!</font>
+
+1021
+01:23:40,870 --> 01:23:43,873
+<font color="yellow">Uma coisa é certa,
+nós vamos emagrecer muito.</font>
+
+1022
+01:23:46,167 --> 01:23:48,461
+<font color="yellow">- Vá lá para cima.
+- Estou tentando.</font>
+
+1023
+01:23:53,799 --> 01:23:57,219
+<font color="yellow">Graças a Deus não os pegaram.
+Mas onde estarão?</font>
+
+1024
+01:23:59,764 --> 01:24:02,099
+<font color="yellow">Usar o transmissor? Puxa!</font>
+
+1025
+01:24:02,183 --> 01:24:04,101
+<font color="yellow">Esqueci que o tinha desligado.</font>
+
+1026
+01:24:08,314 --> 01:24:10,399
+<font color="yellow">- O senhor está aí?
+- C-3PO?</font>
+
+1027
+01:24:11,442 --> 01:24:13,986
+<font color="yellow">- Tivemos alguns problemas.
+- <i>Cale a boca e me ouça.</i></font>
+
+1028
+01:24:14,111 --> 01:24:16,065
+<font color="yellow"><i>Desligue os
+compactadores de lixo</i></font>
+
+1029
+01:24:16,165 --> 01:24:17,965
+<font color="yellow"><i>no nível da prisão! Entendeu?</i></font>
+
+1030
+01:24:17,990 --> 01:24:20,618
+<font color="yellow">Desligue os compactadores
+de lixo da prisão!</font>
+
+1031
+01:24:22,119 --> 01:24:24,705
+<font color="yellow"><i>Desligue os compactadores
+de lixo da prisão.</i></font>
+
+1032
+01:24:24,830 --> 01:24:27,583
+<font color="yellow">Não! Desligue todos.
+Depressa.</font>
+
+1033
+01:24:39,053 --> 01:24:40,513
+<font color="yellow">O quê?</font>
+
+1034
+01:24:41,597 --> 01:24:43,516
+<font color="yellow">Você conseguiu!</font>
+
+1035
+01:24:43,641 --> 01:24:45,977
+<font color="yellow">Escute só.
+Eles estão morrendo, R2.</font>
+
+1036
+01:24:46,060 --> 01:24:48,020
+<font color="yellow">Maldito seja meu corpo metálico.
+Eu fui muito lerdo.</font>
+
+1037
+01:24:48,145 --> 01:24:51,440
+<font color="yellow">É tudo culpa minha.
+Meu pobre mestre.</font>
+
+1038
+01:24:51,524 --> 01:24:53,109
+<font color="yellow">Nós estamos bem.
+Você foi ótimo!</font>
+
+1039
+01:24:54,026 --> 01:24:57,905
+<font color="yellow">Abra a porta de pressão
+desta unidade. Onde estamos?</font>
+
+1040
+01:24:58,030 --> 01:25:01,367
+<font color="yellow"><i>3263827.</i></font>
+
+1041
+01:25:47,079 --> 01:25:49,108
+<font color="yellow">Se evitarmos novos
+conselhos femininos,</font>
+
+1042
+01:25:49,208 --> 01:25:50,708
+<font color="yellow">talvez a gente saia daqui.</font>
+
+1043
+01:25:50,791 --> 01:25:52,668
+<font color="yellow">Bem, vamos embora.</font>
+
+1044
+01:25:53,878 --> 01:25:56,047
+<font color="yellow">Aonde vai?</font>
+
+1045
+01:25:56,130 --> 01:25:57,590
+<font color="yellow">Não, eles vão ouvir!</font>
+
+1046
+01:25:59,634 --> 01:26:01,552
+<font color="yellow">Venha cá, seu covardão.</font>
+
+1047
+01:26:01,636 --> 01:26:03,304
+<font color="yellow">- Chewie, venha cá.
+- Escute.</font>
+
+1048
+01:26:04,221 --> 01:26:06,933
+<font color="yellow">Não sei quem você é
+nem de onde veio</font>
+
+1049
+01:26:07,016 --> 01:26:09,852
+<font color="yellow">mas de agora em diante,
+faça o que eu mandar, certo?</font>
+
+1050
+01:26:10,770 --> 01:26:13,648
+<font color="yellow">Escute, "Vossa Altezíssima",
+quero esclarecer um coisa</font>
+
+1051
+01:26:13,773 --> 01:26:16,400
+<font color="yellow">só recebo ordens
+de uma pessoa, de mim!</font>
+
+1052
+01:26:17,151 --> 01:26:19,070
+<font color="yellow">É um espanto que esteja vivo.</font>
+
+1053
+01:26:19,153 --> 01:26:22,323
+<font color="yellow">Alguém quer tirar esse tapete
+ambulante da minha frente?</font>
+
+1054
+01:26:22,448 --> 01:26:24,700
+<font color="yellow">Nenhuma recompensa vale isto.</font>
+
+1055
+01:26:34,961 --> 01:26:36,837
+<font color="yellow">Relatório de rotina.</font>
+
+1056
+01:26:36,963 --> 01:26:38,047
+<font color="yellow">Certo.</font>
+
+1057
+01:26:40,258 --> 01:26:43,469
+<font color="yellow">- Sabe o que está acontecendo?
+- Talvez outro exercício.</font>
+
+1058
+01:26:48,516 --> 01:26:50,518
+<font color="yellow">Já viu o novo VT-16?</font>
+
+1059
+01:26:50,643 --> 01:26:53,104
+<font color="yellow">Sim. Outros companheiros
+já me falaram dele.</font>
+
+1060
+01:26:53,187 --> 01:26:55,106
+<font color="yellow">Disseram que é perfeito.</font>
+
+1061
+01:26:55,189 --> 01:26:57,149
+<font color="yellow">O que foi isso?</font>
+
+1062
+01:26:57,275 --> 01:27:00,486
+<font color="yellow">Nada. É o escape de gás,
+não se preocupe.</font>
+
+1063
+01:27:05,533 --> 01:27:07,577
+<font color="yellow">- Está lá.
+- C-3PO, está me ouvindo?</font>
+
+1064
+01:27:07,660 --> 01:27:08,703
+<font color="yellow"><i>Sim, senhor.</i></font>
+
+1065
+01:27:08,828 --> 01:27:10,705
+<font color="yellow">- Você está bem?
+- <i>Por enquanto.</i></font>
+
+1066
+01:27:10,830 --> 01:27:13,124
+<font color="yellow">Estamos no hangar principal
+do outro lado da nave.</font>
+
+1067
+01:27:15,167 --> 01:27:16,752
+<font color="yellow">Estamos acima de vocês.
+Fiquem a postos.</font>
+
+1068
+01:27:16,836 --> 01:27:19,589
+<font color="yellow">Veio nisso aí?
+Tem muita coragem.</font>
+
+1069
+01:27:19,672 --> 01:27:21,674
+<font color="yellow">Legal! Vamos embora.</font>
+
+1070
+01:27:25,219 --> 01:27:26,971
+<font color="yellow">São eles. Atirem!</font>
+
+1071
+01:27:28,222 --> 01:27:30,016
+<font color="yellow">Voltem para a nave!</font>
+
+1072
+01:27:30,099 --> 01:27:32,059
+<font color="yellow">- Aonde vai? Volte aqui!
+- Coragem ele tem.</font>
+
+1073
+01:27:32,184 --> 01:27:35,813
+<font color="yellow">De que adianta se for morto?
+Vamos.</font>
+
+1074
+01:28:00,463 --> 01:28:02,423
+<font color="yellow">Acho que pegamos
+o caminho errado.</font>
+
+1075
+01:28:07,428 --> 01:28:08,746
+<font color="yellow">Não há trava!</font>
+
+1076
+01:28:12,600 --> 01:28:15,519
+<font color="yellow">- Isto deve detê-los.
+- Rápido, temos de atravessar.</font>
+
+1077
+01:28:15,603 --> 01:28:17,480
+<font color="yellow">Procure o controle
+que estende a ponte.</font>
+
+1078
+01:28:17,580 --> 01:28:18,773
+<font color="yellow">Acabei de atirar nele.</font>
+
+1079
+01:28:18,898 --> 01:28:20,691
+<font color="yellow">Eles estão vindo!</font>
+
+1080
+01:28:43,047 --> 01:28:44,715
+<font color="yellow">Tome, segure isto.</font>
+
+1081
+01:29:01,148 --> 01:29:02,608
+<font color="yellow">Aí vêm eles.</font>
+
+1082
+01:29:13,286 --> 01:29:14,745
+<font color="yellow">Para dar sorte.</font>
+
+1083
+01:29:20,960 --> 01:29:24,922
+<font color="yellow"><i>Achamos que devem
+ter se separado.</i></font>
+
+1084
+01:29:25,022 --> 01:29:27,022
+<font color="yellow"><i>Podem estar no Nível 5
+ou 6 agora.</i></font>
+
+1085
+01:29:39,770 --> 01:29:41,772
+<font color="yellow">Onde será que estão?</font>
+
+1086
+01:29:45,526 --> 01:29:47,445
+<font color="yellow">Fechem as comportas!</font>
+
+1087
+01:29:54,535 --> 01:29:57,038
+<font color="yellow">Abram as comportas!</font>
+
+1088
+01:30:15,389 --> 01:30:18,186
+<font color="yellow">Estava esperando por você,
+Obi-Wan.</font>
+
+1089
+01:30:18,286 --> 01:30:20,286
+<font color="yellow">Voltamos a nos encontrar.</font>
+
+1090
+01:30:20,937 --> 01:30:22,647
+<font color="yellow">O círculo está completo agora.</font>
+
+1091
+01:30:22,730 --> 01:30:24,941
+<font color="yellow">Quando eu o deixei
+era apenas um aprendiz.</font>
+
+1092
+01:30:25,066 --> 01:30:27,401
+<font color="yellow">Agora, eu sou o mestre.</font>
+
+1093
+01:30:27,526 --> 01:30:29,487
+<font color="yellow">Apenas um mestre do mal, Darth.</font>
+
+1094
+01:30:49,799 --> 01:30:52,093
+<font color="yellow">Seus poderes estão fracos,
+velho.</font>
+
+1095
+01:30:52,218 --> 01:30:55,846
+<font color="yellow">Não pode vencer.
+Se você me atingir</font>
+
+1096
+01:30:55,930 --> 01:30:59,308
+<font color="yellow">ficarei mais poderoso
+do que pode imaginar.</font>
+
+1097
+01:31:06,774 --> 01:31:08,776
+<font color="yellow">Você não deveria ter voltado.</font>
+
+1098
+01:31:34,594 --> 01:31:36,137
+<font color="yellow">Não acabamos
+de deixar esta festinha?</font>
+
+1099
+01:31:38,931 --> 01:31:41,183
+<font color="yellow">- Por que demoraram?
+- Encontramos uns velhos amigos.</font>
+
+1100
+01:31:41,267 --> 01:31:42,569
+<font color="yellow">A nave está bem?</font>
+
+1101
+01:31:42,669 --> 01:31:44,169
+<font color="yellow">Parece.
+É só conseguirmos entrar.</font>
+
+1102
+01:31:44,269 --> 01:31:45,938
+<font color="yellow">Espero que o velho
+tenha desligado o raio trator.</font>
+
+1103
+01:32:00,536 --> 01:32:01,704
+<font color="yellow">Olhe.</font>
+
+1104
+01:32:05,458 --> 01:32:07,376
+<font color="yellow">Venha, R2. Vamos.</font>
+
+1105
+01:32:09,045 --> 01:32:10,087
+<font color="yellow">É agora. Vão!</font>
+
+1106
+01:32:14,008 --> 01:32:15,009
+<font color="yellow">Ben?</font>
+
+1107
+01:32:40,326 --> 01:32:41,452
+<font color="yellow">- Venha logo!
+- Vamos, Luke!</font>
+
+1108
+01:32:42,536 --> 01:32:43,996
+<font color="yellow">Vamos!</font>
+
+1109
+01:32:44,080 --> 01:32:47,124
+<font color="yellow">- Luke, é tarde demais!
+- Atire na porta, garoto!</font>
+
+1110
+01:32:56,884 --> 01:32:58,469
+<font color="yellow"><i>Corra, Luke! Corra!</i></font>
+
+1111
+01:33:02,348 --> 01:33:04,184
+<font color="yellow">Espero que o velho desligou
+o raio trator</font>
+
+1112
+01:33:04,284 --> 01:33:05,584
+<font color="yellow">ou a viagem será
+bem curta.</font>
+
+1113
+01:33:05,684 --> 01:33:07,269
+<font color="yellow">Agora, vamos!</font>
+
+1114
+01:33:38,384 --> 01:33:40,261
+<font color="yellow">Chegamos perto das
+naves sentinelas.</font>
+
+1115
+01:33:40,361 --> 01:33:41,961
+<font color="yellow">Mantenha-as longe.
+Posicione os escudos defletores,</font>
+
+1116
+01:33:42,061 --> 01:33:43,361
+<font color="yellow">enquanto carrego as armas.</font>
+
+1117
+01:33:52,940 --> 01:33:54,901
+<font color="yellow">Não acredito que ele morreu.</font>
+
+1118
+01:33:58,571 --> 01:34:00,364
+<font color="yellow">Não poderia fazer nada.</font>
+
+1119
+01:34:01,157 --> 01:34:03,409
+<font color="yellow">Venham.
+Ainda não acabou.</font>
+
+1120
+01:34:20,217 --> 01:34:22,553
+<font color="yellow">Você está aí?
+Certo, fique de olho.</font>
+
+1121
+01:34:33,439 --> 01:34:34,523
+<font color="yellow">Aí vêm eles.</font>
+
+1122
+01:34:52,541 --> 01:34:54,377
+<font color="yellow">São rápidos demais!</font>
+
+1123
+01:35:02,385 --> 01:35:04,280
+<font color="yellow">Perdemos os
+controles laterais.</font>
+
+1124
+01:35:04,380 --> 01:35:06,280
+<font color="yellow">Não se preocupe,
+a nave aguenta.</font>
+
+1125
+01:35:07,723 --> 01:35:09,767
+<font color="yellow">Está ouvindo, <i>baby</i>?
+Aguente firme!</font>
+
+1126
+01:35:31,872 --> 01:35:33,457
+<font color="yellow">Peguei! Eu o peguei!</font>
+
+1127
+01:35:33,541 --> 01:35:36,002
+<font color="yellow">Grande garoto!
+Não fique convencido!</font>
+
+1128
+01:35:37,169 --> 01:35:38,879
+<font color="yellow">Há mais dois lá fora.</font>
+
+1129
+01:36:12,788 --> 01:36:15,249
+<font color="yellow">- É isso aí! Conseguimos!
+- Conseguimos!</font>
+
+1130
+01:36:16,584 --> 01:36:19,086
+<font color="yellow">Socorro! Estou derretendo.
+E é tudo culpa sua.</font>
+
+1131
+01:36:26,886 --> 01:36:28,554
+<font color="yellow">Eles já partiram?</font>
+
+1132
+01:36:28,679 --> 01:36:31,015
+<font color="yellow">Acabam de entrar
+no hiperespaço.</font>
+
+1133
+01:36:31,724 --> 01:36:35,061
+<font color="yellow">Tem certeza de que o rastreador
+está bem escondido na nave?</font>
+
+1134
+01:36:36,312 --> 01:36:38,689
+<font color="yellow">Estou correndo
+um grande risco, Vader.</font>
+
+1135
+01:36:38,773 --> 01:36:40,733
+<font color="yellow">Isto tem de dar certo.</font>
+
+1136
+01:36:41,500 --> 01:36:43,527
+<font color="yellow">Até que foi
+um belo salvamento, não?</font>
+
+1137
+01:36:43,736 --> 01:36:46,822
+<font color="yellow">Sou tão bom que às vezes
+eu mesmo me impressiono.</font>
+
+1138
+01:36:47,031 --> 01:36:49,325
+<font color="yellow">Isso não parece difícil.</font>
+
+1139
+01:36:49,425 --> 01:36:50,868
+<font color="yellow">Eles nos deixaram ir.</font>
+
+1140
+01:36:50,952 --> 01:36:52,995
+<font color="yellow">Só isso explica
+a fuga ter sido tão fácil.</font>
+
+1141
+01:36:53,287 --> 01:36:56,082
+<font color="yellow">- Fácil? Achou fácil?
+- Estão nos rastreando.</font>
+
+1142
+01:36:56,165 --> 01:36:57,917
+<font color="yellow">Essa nave, não, irmãzinha.</font>
+
+1143
+01:36:59,210 --> 01:37:01,712
+<font color="yellow">Pelo menos, a informação
+no R2 está intacta.</font>
+
+1144
+01:37:01,837 --> 01:37:04,257
+<font color="yellow">Por que é tão importante?
+O que ela contém?</font>
+
+1145
+01:37:04,382 --> 01:37:06,592
+<font color="yellow">O esquema técnico
+da Estação Bélica.</font>
+
+1146
+01:37:07,593 --> 01:37:10,888
+<font color="yellow">Só espero que quando analisado,
+encontremos o ponto fraco.</font>
+
+1147
+01:37:10,972 --> 01:37:14,350
+<font color="yellow">- Ainda não acabou.
+- Acabou para mim, irmãzinha.</font>
+
+1148
+01:37:14,433 --> 01:37:17,812
+<font color="yellow">Não estou nesta pela revolução,
+nem por você, Princesa.</font>
+
+1149
+01:37:17,937 --> 01:37:20,773
+<font color="yellow">Eu espero ser bem pago.
+Estou nessa pela grana.</font>
+
+1150
+01:37:20,856 --> 01:37:23,067
+<font color="yellow">Não se preocupe
+com a recompensa.</font>
+
+1151
+01:37:23,150 --> 01:37:26,070
+<font color="yellow">Se dinheiro é tudo que ama,
+então é o que receberá.</font>
+
+1152
+01:37:29,240 --> 01:37:31,158
+<font color="yellow">Seu amigo é um mercenário.</font>
+
+1153
+01:37:31,284 --> 01:37:34,453
+<font color="yellow">Duvido que se importe com algo.
+Ou com alguém.</font>
+
+1154
+01:37:35,621 --> 01:37:37,081
+<font color="yellow">Eu me importo.</font>
+
+1155
+01:37:43,713 --> 01:37:45,298
+<font color="yellow">E então?</font>
+
+1156
+01:37:45,423 --> 01:37:47,300
+<font color="yellow">O que acha dela, Han?</font>
+
+1157
+01:37:47,425 --> 01:37:49,302
+<font color="yellow">Tento não achar nada.</font>
+
+1158
+01:37:50,136 --> 01:37:51,429
+<font color="yellow">Ótimo.</font>
+
+1159
+01:37:54,807 --> 01:37:57,727
+<font color="yellow">Mas, ela tem muita fibra.</font>
+
+1160
+01:37:59,854 --> 01:38:02,940
+<font color="yellow">O que você acha? Será que uma
+Princesa e um cara como eu...</font>
+
+1161
+01:38:03,024 --> 01:38:04,408
+<font color="yellow">Não.</font>
+
+1162
+01:38:51,280 --> 01:38:54,492
+<font color="yellow">Está viva. Quando soubemos
+de Alderaan, tememos o pior.</font>
+
+1163
+01:38:54,575 --> 01:38:56,494
+<font color="yellow">Sem tempo para
+lamentações, comandante.</font>
+
+1164
+01:38:56,577 --> 01:38:58,080
+<font color="yellow">Vamos usar as
+informações que estão</font>
+
+1165
+01:38:58,180 --> 01:38:59,680
+<font color="yellow">no R2 para o
+plano de ataque.</font>
+
+1166
+01:38:59,705 --> 01:39:01,666
+<font color="yellow">É nossa única esperança.</font>
+
+1167
+01:39:22,570 --> 01:39:23,687
+<font color="yellow">O que foi?</font>
+
+1168
+01:39:23,787 --> 01:39:25,531
+<font color="yellow"><i>Estamos nos aproximando
+do planeta Yavin.</i></font>
+
+1169
+01:39:25,631 --> 01:39:27,650
+<font color="yellow"><i>A base rebelde está
+em uma lua do outro lado.</i></font>
+
+1170
+01:39:27,750 --> 01:39:29,794
+<font color="yellow"><i>Preparando para entrar
+na órbita do planeta.</i></font>
+
+1171
+01:39:38,745 --> 01:39:40,788
+<font color="yellow">A Estação Bélica
+é superblindada.</font>
+
+1172
+01:39:40,913 --> 01:39:44,334
+<font color="yellow">Possui um poder de fogo maior
+que metade da frota estelar.</font>
+
+1173
+01:39:45,084 --> 01:39:47,130
+<font color="yellow">A defesa dela foi
+projetada para</font>
+
+1174
+01:39:47,230 --> 01:39:49,730
+<font color="yellow">repelir um ataque
+em larga escala.</font>
+
+1175
+01:39:49,830 --> 01:39:54,510
+<font color="yellow">Um caça pequeno talvez possa
+penetrar na defesa externa.</font>
+
+1176
+01:39:56,262 --> 01:40:00,058
+<font color="yellow">Desculpe, mas o que caças
+pequenos adiantam contra isso?</font>
+
+1177
+01:40:00,183 --> 01:40:04,729
+<font color="yellow">O Império não vê um pequeno
+caça como uma ameaça.</font>
+
+1178
+01:40:04,854 --> 01:40:06,814
+<font color="yellow">Senão, eles teriam
+uma defesa mais fechada.</font>
+
+1179
+01:40:07,690 --> 01:40:10,943
+<font color="yellow">Uma análise dos esquemas
+fornecidos pela Princesa Leia,</font>
+
+1180
+01:40:11,027 --> 01:40:14,030
+<font color="yellow">mostrou que existe um ponto
+fraco na Estação Bélica.</font>
+
+1181
+01:40:14,947 --> 01:40:16,866
+<font color="yellow">A investida não será fácil.</font>
+
+1182
+01:40:16,991 --> 01:40:20,161
+<font color="yellow">Vocês deverão manobrar
+direto por este corredor.</font>
+
+1183
+01:40:20,244 --> 01:40:22,830
+<font color="yellow">E atravessá-lo
+até atingir este ponto.</font>
+
+1184
+01:40:23,706 --> 01:40:26,376
+<font color="yellow">O alvo tem só
+dois metros de largura.</font>
+
+1185
+01:40:26,501 --> 01:40:28,671
+<font color="yellow">É um pequena porta de exaustão
+de exaustão térmica</font>
+
+1186
+01:40:28,771 --> 01:40:30,971
+<font color="yellow">bem embaixo da
+porta principal.</font>
+
+1187
+01:40:31,422 --> 01:40:34,634
+<font color="yellow">A haste conduz diretamente
+ao sistema do reator.</font>
+
+1188
+01:40:34,717 --> 01:40:37,470
+<font color="yellow">Um tiro preciso provocará
+uma reação em cadeia</font>
+
+1189
+01:40:37,553 --> 01:40:39,764
+<font color="yellow">capaz de destruir a Estação.</font>
+
+1190
+01:40:39,889 --> 01:40:43,351
+<font color="yellow">Somente com um tiro preciso terá
+início uma reação em cadeia.</font>
+
+1191
+01:40:43,476 --> 01:40:46,646
+<font color="yellow">A haste é protegida dos raios.
+Usem torpedos de prótons.</font>
+
+1192
+01:40:46,729 --> 01:40:48,856
+<font color="yellow">É impossível.
+Até para um computador.</font>
+
+1193
+01:40:48,982 --> 01:40:50,335
+<font color="yellow">Mas não é impossível.</font>
+
+1194
+01:40:50,435 --> 01:40:52,835
+<font color="yellow">Costumava acertar em tocas de
+rato com meu velho T-16</font>
+
+1195
+01:40:52,860 --> 01:40:55,238
+<font color="yellow">e não tinham mais
+do que dois metros.</font>
+
+1196
+01:40:55,363 --> 01:40:58,533
+<font color="yellow">Podem embarcar.
+E que a Força esteja com vocês.</font>
+
+1197
+01:41:06,791 --> 01:41:09,252
+<font color="yellow"><i>Orbitando o planeta
+na velocidade máxima.</i></font>
+
+1198
+01:41:10,044 --> 01:41:13,756
+<font color="yellow"><i>A lua com a base rebelde estará
+ao alcance em 30 minutos.</i></font>
+
+1199
+01:41:13,840 --> 01:41:16,426
+<font color="yellow">Este será um dia inesquecível.</font>
+
+1200
+01:41:16,551 --> 01:41:18,553
+<font color="yellow">Vimos o fim de Kenobi.</font>
+
+1201
+01:41:18,636 --> 01:41:21,222
+<font color="yellow">E logo, veremos
+o fim da rebelião.</font>
+
+1202
+01:41:26,978 --> 01:41:29,397
+<font color="yellow"><i>Todas as tropas de voo,
+a seus postos.</i></font>
+
+1203
+01:41:30,356 --> 01:41:33,276
+<font color="yellow"><i>Todas as tropas de voo,
+a seus postos.</i></font>
+
+1204
+01:41:35,695 --> 01:41:38,781
+<font color="yellow">Então, recebeu seu dinheiro
+e já vai embora?</font>
+
+1205
+01:41:38,906 --> 01:41:40,867
+<font color="yellow">É isso aí.</font>
+
+1206
+01:41:41,993 --> 01:41:44,579
+<font color="yellow">Tenho umas dívidas
+antigas para pagar.</font>
+
+1207
+01:41:44,704 --> 01:41:48,791
+<font color="yellow">E mesmo que não tivesse, não
+seria louco de ficar aqui.</font>
+
+1208
+01:41:48,916 --> 01:41:52,462
+<font color="yellow">Por que não vem conosco?
+É bom de briga. Seria útil.</font>
+
+1209
+01:41:52,587 --> 01:41:55,590
+<font color="yellow">O que há com você?
+Por que não olha ao redor?</font>
+
+1210
+01:41:55,673 --> 01:41:58,301
+<font color="yellow">Sabe o que está para acontecer
+e o que estão combatendo.</font>
+
+1211
+01:41:58,426 --> 01:42:01,220
+<font color="yellow">Precisam de você e está
+dando as costas para eles.</font>
+
+1212
+01:42:01,304 --> 01:42:03,723
+<font color="yellow">De que serve o dinheiro
+se não puder usá-lo?</font>
+
+1213
+01:42:03,806 --> 01:42:07,168
+<font color="yellow">Atacar aquela Estação não é
+minha ideia de coragem...</font>
+
+1214
+01:42:07,268 --> 01:42:09,729
+<font color="yellow">Está mais... para suicídio.</font>
+
+1215
+01:42:11,147 --> 01:42:14,400
+<font color="yellow">Está certo.
+Cuide-se bem, Han.</font>
+
+1216
+01:42:14,484 --> 01:42:17,111
+<font color="yellow">É o que faz melhor,
+não é?</font>
+
+1217
+01:42:17,236 --> 01:42:18,571
+<font color="yellow">Ei Luke...</font>
+
+1218
+01:42:21,908 --> 01:42:24,285
+<font color="yellow">Que a Força esteja com você.</font>
+
+1219
+01:42:30,833 --> 01:42:34,003
+<font color="yellow">O que está olhando?
+Sei o que estou fazendo.</font>
+
+1220
+01:42:38,341 --> 01:42:40,843
+<font color="yellow"><i>Todos os pilotos a seus postos.</i></font>
+
+1221
+01:42:41,928 --> 01:42:43,846
+<font color="yellow"><i>Todos os pilotos a seus postos.</i></font>
+
+1222
+01:42:49,811 --> 01:42:52,063
+<font color="yellow">- O que foi?
+- É o Han.</font>
+
+1223
+01:42:52,188 --> 01:42:54,649
+<font color="yellow">Eu não sei.
+Achei que mudaria de ideia.</font>
+
+1224
+01:42:54,732 --> 01:42:58,194
+<font color="yellow">Ele tem que seguir seu caminho.
+Ninguém pode escolher por ele.</font>
+
+1225
+01:42:59,278 --> 01:43:01,698
+<font color="yellow">Eu só queria
+que Ben estivesse aqui.</font>
+
+1226
+01:43:09,747 --> 01:43:11,708
+<font color="yellow"><i>Abrir plataformas de lançamento.</i></font>
+
+1227
+01:43:12,750 --> 01:43:14,669
+<font color="yellow"><i>Plataformas principais abertas.</i></font>
+
+1228
+01:43:14,752 --> 01:43:16,421
+<font color="yellow">Luke!</font>
+
+1229
+01:43:16,546 --> 01:43:19,716
+<font color="yellow">- Biggs!
+- Eu não acredito. Como vai?</font>
+
+1230
+01:43:19,799 --> 01:43:21,843
+<font color="yellow">- Vem conosco?
+- Estarei lá em cima com vocês.</font>
+
+1231
+01:43:21,968 --> 01:43:24,262
+<font color="yellow">- E tenho muito que contar.
+- Skywalker.</font>
+
+1232
+01:43:25,972 --> 01:43:27,890
+<font color="yellow">Tem certeza de que
+pode pilotar essa nave?</font>
+
+1233
+01:43:27,974 --> 01:43:31,394
+<font color="yellow">Senhor, Luke é o melhor piloto
+desta parte da galáxia.</font>
+
+1234
+01:43:32,103 --> 01:43:34,605
+<font color="yellow">- Então, se dará bem.
+- Obrigado, senhor. Tentarei.</font>
+
+1235
+01:43:34,731 --> 01:43:38,609
+<font color="yellow">Vamos embarcar? A gente ouve
+suas histórias na volta. Certo?</font>
+
+1236
+01:43:38,735 --> 01:43:41,404
+<font color="yellow">Biggs.
+Eu não disse que conseguiria?</font>
+
+1237
+01:43:41,529 --> 01:43:44,407
+<font color="yellow">Será como antigamente, Luke.
+Ninguém nos segura.</font>
+
+1238
+01:43:47,410 --> 01:43:50,330
+<font color="yellow">Essa unidade R2 parece
+castigada. Quer uma nova?</font>
+
+1239
+01:43:50,413 --> 01:43:53,541
+<font color="yellow">Nem pensar, este androide
+e eu temos uma história.</font>
+
+1240
+01:43:53,666 --> 01:43:54,667
+<font color="yellow">Você está bem, R2?</font>
+
+1241
+01:43:56,252 --> 01:43:57,628
+<font color="yellow">Ótimo.</font>
+
+1242
+01:43:58,588 --> 01:44:01,699
+<font color="yellow"><i>Esquadrão Ouro, comece os
+procedimentos de decolagem.</i></font>
+
+1243
+01:44:02,008 --> 01:44:04,969
+<font color="yellow">Aguente firme, R2.
+Você tem de voltar.</font>
+
+1244
+01:44:06,929 --> 01:44:09,290
+<font color="yellow">Não quer que minha vida
+fique sem graça, não é?</font>
+
+1245
+01:44:57,730 --> 01:45:00,191
+<font color="yellow"><i>Luke, a Força estará com você.</i></font>
+
+1246
+01:45:12,328 --> 01:45:15,790
+<font color="yellow"><i>Alerta! Estrela da Morte
+se aproximando.</i></font>
+
+1247
+01:45:15,873 --> 01:45:18,960
+<font color="yellow"><i>Estimativa de tempo para
+alcance de fogo, 15 minutos.</i></font>
+
+1248
+01:45:32,181 --> 01:45:34,392
+<font color="yellow">- Situação das naves.
+- Vermelho 10, a postos.</font>
+
+1249
+01:45:34,517 --> 01:45:36,728
+<font color="yellow">- <i>Vermelho 7, a postos.</i>
+- Vermelho 3, a postos.</font>
+
+1250
+01:45:36,853 --> 01:45:39,564
+<font color="yellow">- Vermelho 6, a postos.
+- <i>Vermelho 9, a postos.</i></font>
+
+1251
+01:45:39,689 --> 01:45:41,649
+<font color="yellow">- Vermelho 2, a postos.
+- <i>Vermelho 11, a postos.</i></font>
+
+1252
+01:45:41,774 --> 01:45:43,693
+<font color="yellow">Vermelho 5, a postos.</font>
+
+1253
+01:45:45,069 --> 01:45:46,988
+<font color="yellow">Travar asas em
+posição de ataque.</font>
+
+1254
+01:45:51,242 --> 01:45:53,244
+<font color="yellow"><i>Estamos passando pelo
+campo magnético deles.</i></font>
+
+1255
+01:45:53,369 --> 01:45:56,122
+<font color="yellow">Segurem-se!
+Liguem os defletores.</font>
+
+1256
+01:45:56,205 --> 01:45:57,665
+<font color="yellow"><i>Frente dupla.</i></font>
+
+1257
+01:46:00,585 --> 01:46:02,378
+<font color="yellow">Olhe só o tamanho daquilo!</font>
+
+1258
+01:46:02,462 --> 01:46:05,048
+<font color="yellow"><i>Nada de conversa, Vermelho 2.
+Entre na velocidade de ataque.</i></font>
+
+1259
+01:46:08,468 --> 01:46:09,920
+<font color="yellow">É isso aí, pessoal.</font>
+
+1260
+01:46:10,020 --> 01:46:11,620
+<font color="yellow">Líder Vermelho,
+aqui é Líder Ouro.</font>
+
+1261
+01:46:11,720 --> 01:46:14,182
+<font color="yellow">- <i>Prossiga, Líder Ouro.</i>
+- Rumando para o alvo.</font>
+
+1262
+01:46:14,265 --> 01:46:17,727
+<font color="yellow">Em posição. Atravessarei
+o eixo e atrairei o fogo deles.</font>
+
+1263
+01:46:32,158 --> 01:46:35,711
+<font color="yellow">- <i>Bateria pesada a 23 graus.</i>
+- <i>Estou vendo, voe baixo.</i></font>
+
+1264
+01:46:43,086 --> 01:46:44,545
+<font color="yellow">Aqui é Vermelho 5.
+Irei entrar.</font>
+
+1265
+01:46:49,217 --> 01:46:50,534
+<font color="yellow"><i>Luke, suba!</i></font>
+
+1266
+01:46:52,095 --> 01:46:54,138
+<font color="yellow">- Você está bem?
+- Só um pouco assado.</font>
+
+1267
+01:47:00,103 --> 01:47:01,865
+<font color="yellow">Contamos 30 naves rebeldes.</font>
+
+1268
+01:47:01,965 --> 01:47:04,065
+<font color="yellow">Mas são tão pequenas
+que escapam dos lasers.</font>
+
+1269
+01:47:04,148 --> 01:47:06,067
+<font color="yellow">Vamos destruí-las uma por uma.</font>
+
+1270
+01:47:06,150 --> 01:47:08,194
+<font color="yellow">Os pilotos para seus caças.</font>
+
+1271
+01:47:10,863 --> 01:47:12,181
+<font color="yellow">Atenção!</font>
+
+1272
+01:47:12,281 --> 01:47:14,659
+<font color="yellow"><i>Há muito fogo vindo
+à direita da torre de deflexão.</i></font>
+
+1273
+01:47:14,784 --> 01:47:16,035
+<font color="yellow">Estou vendo.</font>
+
+1274
+01:47:16,119 --> 01:47:20,139
+<font color="yellow">- Irei entrar. Proteja-me, Porkins.
+- Estou contigo, Vermelho 3.</font>
+
+1275
+01:47:25,962 --> 01:47:27,514
+<font color="yellow">Estou com um problema aqui.</font>
+
+1276
+01:47:27,797 --> 01:47:29,215
+<font color="yellow">- Ejete!
+- Posso aguentar.</font>
+
+1277
+01:47:29,298 --> 01:47:31,467
+<font color="yellow">- Abandone!
+- Não, estou bem...</font>
+
+1278
+01:47:35,680 --> 01:47:38,641
+<font color="yellow"><i>Base rebelde ao alcance
+de fogo em 7 minutos.</i></font>
+
+1279
+01:47:42,478 --> 01:47:45,148
+<font color="yellow"><i>Luke, confie em sua intuição.</i></font>
+
+1280
+01:47:52,989 --> 01:47:54,615
+<font color="yellow">Líderes de esquadrão...</font>
+
+1281
+01:47:54,741 --> 01:47:56,784
+<font color="yellow">captamos novos
+grupos de sinais.</font>
+
+1282
+01:47:57,368 --> 01:47:58,828
+<font color="yellow">Caças inimigos em sua direção.</font>
+
+1283
+01:47:58,911 --> 01:48:00,580
+<font color="yellow">Meu monitor dá negativo.
+Eu não vejo nada.</font>
+
+1284
+01:48:00,663 --> 01:48:02,874
+<font color="yellow">- Faça uma varredura visual.
+- <i>Aí vêm eles.</i></font>
+
+1285
+01:48:06,169 --> 01:48:07,837
+<font color="yellow">Cuidado, há um atrás de você.</font>
+
+1286
+01:48:13,176 --> 01:48:14,552
+<font color="yellow">Fui atingido!</font>
+
+1287
+01:48:15,511 --> 01:48:18,056
+<font color="yellow">- Cuidado, há um atrás de você.
+- Não consigo ver!</font>
+
+1288
+01:48:20,099 --> 01:48:21,768
+<font color="yellow">Está muito perto.
+Não posso me livrar dele.</font>
+
+1289
+01:48:23,519 --> 01:48:25,521
+<font color="yellow">Estou indo.</font>
+
+1290
+01:48:37,742 --> 01:48:41,120
+<font color="yellow">Vários caças se separaram do
+grupo principal. Venham comigo.</font>
+
+1291
+01:48:44,624 --> 01:48:47,710
+<font color="yellow">- <i>Em linha, Luke! Em linha!</i>
+- <i>Olhe a retaguarda, Luke!</i></font>
+
+1292
+01:48:47,835 --> 01:48:50,129
+<font color="yellow"><i>Caças acima e se aproximando.</i></font>
+
+1293
+01:48:56,386 --> 01:48:59,180
+<font color="yellow">Fui atingido.
+R2, veja o que pode fazer.</font>
+
+1294
+01:48:59,263 --> 01:49:01,391
+<font color="yellow"><i>Aguente firme aí atrás.</i></font>
+
+1295
+01:49:01,516 --> 01:49:04,143
+<font color="yellow"><i>Vermelho 6, vê o Vermelho 5?</i></font>
+
+1296
+01:49:04,227 --> 01:49:06,646
+<font color="yellow"><i>Zona de fogo pesado aqui.
+Vermelho 5, onde está você?</i></font>
+
+1297
+01:49:06,729 --> 01:49:08,147
+<font color="yellow">Não consigo sair!</font>
+
+1298
+01:49:12,235 --> 01:49:13,695
+<font color="yellow">Estou em cima dele, Luke.</font>
+
+1299
+01:49:16,990 --> 01:49:18,574
+<font color="yellow">Droga!
+Biggs, onde você está?</font>
+
+1300
+01:49:25,581 --> 01:49:28,418
+<font color="yellow">- Obrigado, Wedge.
+- <i>Belo tiro, Wedge.</i></font>
+
+1301
+01:49:28,501 --> 01:49:32,246
+<font color="yellow"><i>Líder Vermelho,</i> aqui é Líder Ouro.
+Começando o ataque.</font>
+
+1302
+01:49:33,423 --> 01:49:36,200
+<font color="yellow"><i>Entendido, Líder Ouro.
+Assuma a posição.</i></font>
+
+1303
+01:49:38,261 --> 01:49:40,513
+<font color="yellow">Fiquem em formação de ataque.</font>
+
+1304
+01:49:40,596 --> 01:49:43,474
+<font color="yellow"><i>A porta de exaustão
+está marcada e fixada.</i></font>
+
+1305
+01:49:49,355 --> 01:49:52,483
+<font color="yellow"><i>Apliquem força total
+nos defletores frontais.</i></font>
+
+1306
+01:49:52,608 --> 01:49:55,778
+<font color="yellow">Apliquem força total
+nos defletores frontais.</font>
+
+1307
+01:50:00,533 --> 01:50:02,285
+<font color="yellow">Quantos canhões eles têm,
+Ouro 5?</font>
+
+1308
+01:50:02,868 --> 01:50:05,621
+<font color="yellow"><i>Acho que uns 20. Alguns na
+superfície e outros na torre.</i></font>
+
+1309
+01:50:05,705 --> 01:50:08,499
+<font color="yellow"><i>Estrela da Morte no raio
+de ação em 5 minutos.</i></font>
+
+1310
+01:50:10,626 --> 01:50:13,671
+<font color="yellow">Estou ligando
+o computador de mira.</font>
+
+1311
+01:50:16,132 --> 01:50:18,134
+<font color="yellow">Computador fixado.
+Recebendo um sinal.</font>
+
+1312
+01:50:20,511 --> 01:50:22,597
+<font color="yellow">As armas pararam.</font>
+
+1313
+01:50:24,390 --> 01:50:27,393
+<font color="yellow">Estabilize os defletors traseiros.
+Atenção para caças inimigos.</font>
+
+1314
+01:50:27,493 --> 01:50:29,479
+<font color="yellow"><i>Estão vindo.</i>
+Três marcas em 2.10.</font>
+
+1315
+01:50:31,481 --> 01:50:34,008
+<font color="yellow">Eu mesmo cuido deles.
+Cubram-me.</font>
+
+1316
+01:50:34,108 --> 01:50:35,484
+<font color="yellow">Sim, senhor.</font>
+
+1317
+01:50:49,499 --> 01:50:52,001
+<font color="yellow">- Não posso manobrar.
+- Fique no alvo.</font>
+
+1318
+01:50:52,085 --> 01:50:53,920
+<font color="yellow">- Perto demais.
+- Fique no alvo.</font>
+
+1319
+01:50:55,755 --> 01:50:57,073
+<font color="yellow">Soltando!</font>
+
+1320
+01:51:00,001 --> 01:51:02,553
+<font color="yellow">Ouro 5 para Líder Vermelho.
+Perdemos Tiree e Hutch.</font>
+
+1321
+01:51:02,879 --> 01:51:05,014
+<font color="yellow">- Mensagem entendida.
+- Eles vieram por trás...</font>
+
+1322
+01:51:11,354 --> 01:51:13,982
+<font color="yellow">Analisamos o ataque deles,
+e existe um perigo.</font>
+
+1323
+01:51:14,107 --> 01:51:16,025
+<font color="yellow">Quer que prepare
+a sua nave agora?</font>
+
+1324
+01:51:16,109 --> 01:51:18,987
+<font color="yellow">Evadir?
+Em nosso momento de triunfo?</font>
+
+1325
+01:51:19,070 --> 01:51:21,531
+<font color="yellow">Está superestimando
+as chances deles.</font>
+
+1326
+01:51:22,240 --> 01:51:24,242
+<font color="yellow"><i>Base rebelde ao alcance em
+3 minutos e aproximando.</i></font>
+
+1327
+01:51:25,034 --> 01:51:26,869
+<font color="yellow">Esquadrão Vermelho,
+aqui é o Líder Vermelho.</font>
+
+1328
+01:51:26,953 --> 01:51:28,705
+<font color="yellow"><i>Reunião na marca 6.1.</i></font>
+
+1329
+01:51:28,788 --> 01:51:30,717
+<font color="yellow"><i>Vermelho 2, rumando
+em sua direção.</i></font>
+
+1330
+01:51:30,817 --> 01:51:32,417
+<font color="yellow"><i>Vermelho 3 a postos.</i></font>
+
+1331
+01:51:32,542 --> 01:51:34,377
+<font color="yellow">Líder Vermelho, aqui é Base Um.</font>
+
+1332
+01:51:34,460 --> 01:51:37,088
+<font color="yellow"><i>Mantenha metade do seu grupo
+atrás no próximo ataque.</i></font>
+
+1333
+01:51:37,213 --> 01:51:39,799
+<font color="yellow"><i>Entendido, Base 1.
+Luke, leve os Vermelhos 2 e 3.</i></font>
+
+1334
+01:51:39,882 --> 01:51:41,719
+<font color="yellow">Fique ligado e espere
+meu sinal...</font>
+
+1335
+01:51:41,819 --> 01:51:43,119
+<font color="yellow"><i>para iniciar o ataque</i>.</font>
+
+1336
+01:51:52,128 --> 01:51:53,454
+<font color="yellow">É isso aí.</font>
+
+1337
+01:51:57,483 --> 01:51:59,569
+<font color="yellow">Deveria estar visível.</font>
+
+1338
+01:52:01,237 --> 01:52:03,289
+<font color="yellow">Olhos abertos para
+aqueles caças.</font>
+
+1339
+01:52:04,824 --> 01:52:07,243
+<font color="yellow">Interferência demais.
+Vermelho 5? Vê algum deles?</font>
+
+1340
+01:52:07,327 --> 01:52:09,888
+<font color="yellow">Nenhum... Espere.
+Entrando em 0.35.</font>
+
+1341
+01:52:09,988 --> 01:52:10,988
+<font color="yellow">Já os vi.</font>
+
+1342
+01:52:11,873 --> 01:52:12,915
+<font color="yellow">Estou no alcance.</font>
+
+1343
+01:52:14,250 --> 01:52:15,918
+<font color="yellow">Alvo aproximando-se.</font>
+
+1344
+01:52:18,546 --> 01:52:20,631
+<font color="yellow">Mantenham-os aí
+por alguns segundos.</font>
+
+1345
+01:52:21,507 --> 01:52:23,051
+<font color="yellow">Fechar formação.</font>
+
+1346
+01:52:25,027 --> 01:52:26,596
+<font color="yellow">Estou quase lá.</font>
+
+1347
+01:52:35,730 --> 01:52:37,541
+<font color="yellow">Dispare logo!
+Estão atrás de mim.</font>
+
+1348
+01:52:37,641 --> 01:52:39,141
+<font color="yellow">Estamos quase lá.</font>
+
+1349
+01:52:40,360 --> 01:52:41,986
+<font color="yellow">Não posso segurá-los.</font>
+
+1350
+01:52:50,244 --> 01:52:51,553
+<font color="yellow">Lá vai!</font>
+
+1351
+01:52:55,458 --> 01:52:57,085
+<font color="yellow">- <i>Teve sucesso?</i>
+- <i>Negativo.</i></font>
+
+1352
+01:52:57,210 --> 01:52:59,253
+<font color="yellow">Negativo. Não entrou.</font>
+
+1353
+01:52:59,379 --> 01:53:02,006
+<font color="yellow"><i>Chocou-se contra a superfície.</i></font>
+
+1354
+01:53:08,471 --> 01:53:10,139
+<font color="yellow"><i>Líder Vermelho,
+estamos em cima de você.</i></font>
+
+1355
+01:53:10,264 --> 01:53:12,433
+<font color="yellow">Mude para 0.5,
+nós cubrimos você.</font>
+
+1356
+01:53:12,517 --> 01:53:15,436
+<font color="yellow"><i>Fiquem aí. Acabo de perder
+meu motor de estibordo.</i></font>
+
+1357
+01:53:16,270 --> 01:53:18,481
+<font color="yellow"><i>Preparem-se para o ataque.</i></font>
+
+1358
+01:53:31,828 --> 01:53:34,414
+<font color="yellow"><i>Base rebelde, 1 minuto
+e aproximando.</i></font>
+
+1359
+01:53:35,164 --> 01:53:36,749
+<font color="yellow"><i>Biggs, Wedge, vamos entrar.</i></font>
+
+1360
+01:53:36,833 --> 01:53:38,711
+<font color="yellow"><i>Estamos acelerando tudo.</i></font>
+
+1361
+01:53:39,011 --> 01:53:40,411
+<font color="yellow">Isso manterá
+esses caças longe.</font>
+
+1362
+01:53:40,511 --> 01:53:41,822
+<font color="yellow">Estou com você, chefe.</font>
+
+1363
+01:53:42,805 --> 01:53:44,841
+<font color="yellow">Luke, a essa velocidade,
+será que sairá a tempo?</font>
+
+1364
+01:53:44,924 --> 01:53:47,084
+<font color="yellow">Vai ser como
+Beggars Canyon lá de casa.</font>
+
+1365
+01:53:54,267 --> 01:53:56,519
+<font color="yellow">Protegeremos a sua retaguarda.</font>
+
+1366
+01:53:56,602 --> 01:53:59,147
+<font color="yellow"><i>Meu monitor mostra a torre, mas
+não vejo a porta de exaustão.</i></font>
+
+1367
+01:53:59,272 --> 01:54:00,690
+<font color="yellow">Será que o computador acerta?</font>
+
+1368
+01:54:04,193 --> 01:54:06,195
+<font color="yellow">Fique de olho.
+Aumente para velocidade total.</font>
+
+1369
+01:54:06,321 --> 01:54:07,572
+<font color="yellow">E aquela torre?</font>
+
+1370
+01:54:07,697 --> 01:54:10,074
+<font color="yellow">Cuide dos caças
+que eu cuidarei da torre.</font>
+
+1371
+01:54:16,539 --> 01:54:20,084
+<font color="yellow">R2, o estabilizador está solto.
+Veja se pode prendê-lo.</font>
+
+1372
+01:54:29,702 --> 01:54:31,354
+<font color="yellow"><i>Caças vindo em 0.3.</i></font>
+
+1373
+01:54:40,421 --> 01:54:42,121
+<font color="yellow"><i>Fui atingido.
+Não posso ficar com vocês.</i></font>
+
+1374
+01:54:42,221 --> 01:54:44,221
+<font color="yellow">Saia daí, não pode fazer
+mais nada agora.</font>
+
+1375
+01:54:44,321 --> 01:54:45,521
+<font color="yellow">Desculpe.</font>
+
+1376
+01:54:46,521 --> 01:54:48,071
+<font color="yellow">Deixem-no ir.
+Concentrem-se no líder.</font>
+
+1377
+01:54:51,074 --> 01:54:53,642
+<font color="yellow">Luke, estão vindo rápido.
+Não posso segurá-los.</font>
+
+1378
+01:54:57,413 --> 01:54:59,224
+<font color="yellow">R2, aumente a potência.</font>
+
+1379
+01:55:05,546 --> 01:55:07,056
+<font color="yellow"><i>Depressa, Luke! Rápido!</i></font>
+
+1380
+01:55:07,715 --> 01:55:08,800
+<font color="yellow">Rápido!</font>
+
+1381
+01:55:15,890 --> 01:55:18,393
+<font color="yellow"><i>Base rebelde em 30 segundos
+e aproximando.</i></font>
+
+1382
+01:55:18,518 --> 01:55:19,602
+<font color="yellow">Eu pegarei o líder.</font>
+
+1383
+01:55:23,106 --> 01:55:24,524
+<font color="yellow">Firme, R2.</font>
+
+1384
+01:55:40,556 --> 01:55:43,042
+<font color="yellow"><i>Use a Força, Luke.</i></font>
+
+1385
+01:55:45,711 --> 01:55:47,797
+<font color="yellow"><i>Deixe-a fluir.</i></font>
+
+1386
+01:55:49,298 --> 01:55:51,634
+<font color="yellow">A Força nesta nave é forte.</font>
+
+1387
+01:55:51,759 --> 01:55:53,678
+<font color="yellow"><i>Luke, confie em mim.</i></font>
+
+1388
+01:55:58,891 --> 01:56:00,685
+<font color="yellow"><i>O computador dele desligou.</i></font>
+
+1389
+01:56:00,810 --> 01:56:02,937
+<font color="yellow"><i>Luke, desligou seu computador?
+O que houve?</i></font>
+
+1390
+01:56:03,021 --> 01:56:05,648
+<font color="yellow"><i>Nada, estou bem.</i></font>
+
+1391
+01:56:18,619 --> 01:56:19,787
+<font color="yellow"><i>Perdi o R2.</i></font>
+
+1392
+01:56:21,706 --> 01:56:26,210
+<font color="yellow"><i>Estrela da Morte
+pronta para atirar.</i></font>
+
+1393
+01:56:27,295 --> 01:56:28,880
+<font color="yellow"><i>Base rebelde ao alcance.</i></font>
+
+1394
+01:56:29,005 --> 01:56:30,882
+<font color="yellow">Podem abrir fogo.</font>
+
+1395
+01:56:31,632 --> 01:56:33,051
+<font color="yellow"><i>Iniciar ignição primária.</i></font>
+
+1396
+01:56:47,023 --> 01:56:48,441
+<font color="yellow">Agora, peguei você.</font>
+
+1397
+01:56:50,943 --> 01:56:52,270
+<font color="yellow">O quê?</font>
+
+1398
+01:56:54,697 --> 01:56:56,031
+<font color="yellow">Cuidado!</font>
+
+1399
+01:57:02,372 --> 01:57:05,408
+<font color="yellow">Você está livre, garoto! Exploda
+essa coisa e vá para casa!</font>
+
+1400
+01:57:12,048 --> 01:57:13,383
+<font color="yellow"><i>A postos.</i></font>
+
+1401
+01:57:16,386 --> 01:57:18,096
+<font color="yellow"><i>A postos.</i></font>
+
+1402
+01:57:28,564 --> 01:57:30,783
+<font color="yellow">Grande tiro!
+Acertou na mosca!</font>
+
+1403
+01:57:31,943 --> 01:57:36,406
+<font color="yellow"><i>Lembre-se, a Força
+estará com você. Sempre.</i></font>
+
+1404
+01:58:01,806 --> 01:58:03,725
+<font color="yellow">Eu sabia que você voltaria!
+Eu sabia!</font>
+
+1405
+01:58:03,808 --> 01:58:06,227
+<font color="yellow">Eu não podia deixar você ficar
+com todo o crédito e as honras.</font>
+
+1406
+01:58:06,311 --> 01:58:08,313
+<font color="yellow">Sabia que dinheiro
+não era tudo para você.</font>
+
+1407
+01:58:09,522 --> 01:58:10,873
+<font color="yellow">Essa não.</font>
+
+1408
+01:58:10,973 --> 01:58:12,817
+<font color="yellow">Minha nossa!
+R2, você está me ouvindo?</font>
+
+1409
+01:58:13,526 --> 01:58:16,362
+<font color="yellow">Diga alguma coisa.
+Ele tem conserto, não tem?</font>
+
+1410
+01:58:16,446 --> 01:58:18,399
+<font color="yellow">Vamos trabalhar nele
+agora mesmo.</font>
+
+1411
+01:58:18,499 --> 01:58:19,799
+<font color="yellow">Precisa consertá-lo.</font>
+
+1412
+01:58:19,899 --> 01:58:23,102
+<font color="yellow">Se um circuito meu puder ajudar,
+terei prazer em doá-lo.</font>
+
+1413
+01:58:23,202 --> 01:58:24,787
+<font color="yellow">Ele ficará bom.</font>
+
+1414
+02:00:15,300 --> 02:00:18,800
+<font color="yellow">Revisão e sincronia:
+<i>jlarpex</i></font>
