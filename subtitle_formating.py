@@ -43,7 +43,7 @@ def dict_to_string(dict_sub: Dict[str, List[str]]) -> str:
         new_sub += '\n'.join([pos[i], start[i] + ' --> ' + end[i], content[i]])
         new_sub += '\n\n'
     
-    return new_sub
+    return new_sub[:-2] # Returning without the last two \n
 
 def sub_to_dict(raw: str) -> Dict[str, List[str]]:
     '''
@@ -57,7 +57,7 @@ def sub_to_dict(raw: str) -> Dict[str, List[str]]:
     position = re.findall('(\d+)(?:\n\d\d:\d\d:\d\d,\d\d\d)', raw)
     start_time = re.findall('([\d:,]+)(?: -->)', raw)
     end_time = re.findall('(?:--> )([\d:,]+)', raw)
-    content = re.findall('(?:\d\d:\d\d:\d\d,\d\d\d\n)([\s\S]+?(?=\n{2}|$))', raw, re.DOTALL)
+    content = re.findall('(?:\d\d:\d\d:\d\d,\d\d\d\n)([\s\S]+?(?=\n{2}|$))', raw)
     
     dict_sub = {'position' : position,
                 'start_time' : start_time,
@@ -72,7 +72,7 @@ def paint_content(sub_content: List[str], color: str) -> List[str]:
     Uses ´color´ to change the format of each subtitle in ´sub_content´
     '''
     
-    formated_content = ['<span style="color:{}">'.format(color) + c + '</span>' for c in sub_content]
+    formated_content = ['<font color="{}">'.format(color) + sub + '</font>' for sub in sub_content]
     
     return formated_content
 
@@ -83,11 +83,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Script to change the font color of .srt subtitle files'
     )
-
-    # Arguments
-    #   - source_file: the source file to be formated
-    #   - dest_file: the destination where the formated file should go
-    #   - color: the new color of the subtitle
 
     parser.add_argument(
         'source_file',
